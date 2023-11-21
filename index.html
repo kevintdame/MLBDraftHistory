@@ -702,10 +702,10 @@
 
     
     document.addEventListener('DOMContentLoaded', async function() {
-        document.getElementById('chartTitle').textContent = `MLB Draft Value: Los Angeles Angels`;
+        document.getElementById('chartTitle').textContent = `MLB Draft Value: Arizona Diamondbacks`;
         // Fetch the average wAV data and store it in the variable
         boxHeightsForSeasons = await fetchAverageWavData('average_wav_per_season.csv');
-        await generateCharts('csvFiles/angelsDraft.csv', boxHeightsForSeasons);
+        await generateCharts('csvFiles/diamondbacksDraft.csv', boxHeightsForSeasons);
     });
     
     
