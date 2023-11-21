@@ -1,0 +1,623 @@
+Year,Rnd,DT,OvPck,RdPck,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,Type,Drafted Out of,Round
+2023,1,,21,21.0,Y,"$3,618,200",Chase Davis (minors),OF,,,,,,,,,,,,,4Yr,"University of Arizona (Tucson, AZ)",1
+2022,1,,22,22.0,Y,"$3,182,200",Cooper Hjerpe (minors),P,,,,,,,,,,,,,4Yr,"Oregon State University (Corvallis, OR)",1
+2021,1,,18,18.0,Y,"$2,750,000",Michael McGreevy (minors),P,,,,,,,,,,,,,4Yr,"University of California, Santa Barbara (Santa Barbara, CA)",1
+2020,1,,21,21.0,Y,"$2,900,000",Jordan Walker (minors),3B,-0.1,117.0,420.0,16.0,0.276,0.787,,,,,,,HS,"Decatur HS (Decatur, GA)",1
+2019,1,,19,19.0,Y,"$3,000,000",Zack Thompson (minors),P,1.3,0.0,0.0,0.0,,,47.0,6.0,8.0,3.65,1.27,1.0,4Yr,"University of Kentucky (Lexington, KY)",1
+2018,1,,19,19.0,Y,"$3,231,700",Nolan Gorman (minors),3B,3.2,208.0,689.0,41.0,0.232,0.771,,,,,,,HS,"Sandra Day O'Connor HS (Phoenix, AZ)",1
+2018,1,,43,43.0,Y,"$1,664,200",Griffin Roberts (minors),RHP,,,,,,,,,,,,,4Yr,"Wake Forest University (Winston-Salem, NC)",1
+2016,1,,23,23.0,Y,"$2,222,500",Delvin P�rez (minors),SS,,,,,,,,,,,,,HS,"International Baseball Academy (Ceiba, Puerto Rico)",1
+2016,1,,33,33.0,Y,"$1,350,000",Dylan Carlson (minors),OF,5.6,388.0,1303.0,34.0,0.243,0.717,,,,,,,HS,"Elk Grove HS (Elk Grove, CA)",1
+2016,1,,34,34.0,Y,"$2,000,000",Dakota Hudson (minors),RHP,4.1,56.0,55.0,0.0,0.091,0.214,114.0,38.0,20.0,3.84,1.39,1.0,4Yr,"Mississippi State University (Mississippi State, MS)",1
+2015,1,,23,23.0,Y,"$2,124,400",Nick Plummer (minors),OF,-0.1,14.0,29.0,2.0,0.138,0.573,,,,,,,HS,"Brother Rice HS (Bloomfield Hills, MI)",1
+2015,1,,39,39.0,Y,"$1,800,000",Jake Woodford (minors),RHP,0.5,25.0,18.0,0.0,0.111,0.222,80.0,10.0,7.0,4.29,1.37,0.0,HS,"H. B. Plant HS (Tampa, FL)",1
+2014,1,,27,27.0,Y,"$1,843,000",Luke Weaver (minors),RHP,0.8,84.0,108.0,1.0,0.167,0.382,144.0,27.0,42.0,5.14,1.44,0.0,4Yr,"Florida State University (Tallahassee, FL)",1
+2014,1,,34,34.0,Y,"$2,000,000",Jack Flaherty (minors),RHP,10.1,84.0,123.0,1.0,0.155,0.412,131.0,42.0,34.0,3.75,1.21,0.0,HS,"Harvard-Westlake HS (Los Angeles, CA)",1
+2013,1,,19,19.0,Y,"$1,850,000",Marco Gonzales (minors),LHP,8.5,18.0,23.0,0.0,0.217,0.565,163.0,65.0,49.0,4.14,1.29,0.0,4Yr,"Gonzaga University (Spokane, WA)",1
+2013,1,,28,28.0,Y,"$1,785,300",*Rob Kaminsky (minors),LHP,-0.1,0.0,0.0,0.0,,,5.0,0.0,0.0,1.93,1.07,0.0,HS,"St. Joseph Regional HS (Montvale, NJ)",1
+2012,1,,19,19.0,Y,"$1,900,000",*Michael Wacha (minors),RHP,13.0,159.0,251.0,0.0,0.092,0.222,249.0,88.0,54.0,3.96,1.29,0.0,4Yr,"Texas A&M University (College Station, TX)",1
+2012,1,,23,23.0,Y,"$1,600,000",James Ramsey (minors),OF,,,,,,,,,,,,,4Yr,"Florida State University (Tallahassee, FL)",1
+2012,1s,,36,36.0,Y,"$1,430,000",*Stephen Piscotty (minors),3B,6.5,726.0,2517.0,93.0,0.256,0.754,,,,,,,4Yr,"Stanford University (Palo Alto, CA)",1
+2012,1s,,52,52.0,Y,"$678,790",*Patrick Wisdom (minors),3B,3.5,380.0,1153.0,80.0,0.214,0.766,,,,,,,4Yr,"Saint Mary's College of California (Moraga, CA)",1
+2012,1s,,59,59.0,Y,"$700,000",*Steve Bean (minors),C,,,,,,,,,,,,,HS,"Rockwall HS (Rockwall, TX)",1
+2011,1,,22,22.0,Y,"$1,300,000",Kolten Wong (minors),2B,22.1,1189.0,3796.0,86.0,0.256,0.719,,,,,,,4Yr,"University of Hawaii at Manoa (Honolulu, HI)",1
+2010,1,,25,25.0,Y,"$2,000,000",Zack Cox (minors),3B,,,,,,,,,,,,,4Yr,"University of Arkansas (Fayetteville, AR)",1
+2010,1s,,46,46.0,Y,"$751,500",*Seth Blair (minors),RHP,,,,,,,,,,,,,4Yr,"Arizona State University (Tempe, AZ)",1
+2010,1s,,50,50.0,Y,"$1,300,000",*Tyrell Jenkins (minors),RHP,-0.4,14.0,13.0,0.0,0.0,0.0,14.0,2.0,4.0,5.88,1.69,0.0,HS,"Henderson HS (Henderson, TX)",1
+2009,1,,19,19.0,Y,"$2,875,000",Shelby Miller (minors),RHP,8.9,142.0,204.0,1.0,0.108,0.346,203.0,41.0,58.0,4.08,1.35,1.0,HS,"Brownwood HS (Brownwood, TX)",1
+2008,1,,13,13.0,Y,"$1,840,000",Brett Wallace (minors),1B,-0.2,494.0,1284.0,40.0,0.238,0.705,,,,,,,4Yr,"Arizona State University (Tempe, AZ)",1
+2008,1s,,39,39.0,Y,"$938,000",*Lance Lynn (minors),RHP,29.8,176.0,283.0,0.0,0.085,0.23,341.0,136.0,95.0,3.74,1.27,1.0,4Yr,"University of Mississippi (Oxford, MS)",1
+2007,1,,18,18.0,Y,"$1,395,000",Pete Kozma (minors),SS,-0.5,344.0,746.0,5.0,0.213,0.564,,,,,,,HS,"Owasso HS (Owasso, OK)",1
+2007,1s,,36,36.0,Y,"$650,000",*Clayton Mortensen (minors),RHP,-0.5,19.0,16.0,0.0,0.0,0.056,74.0,6.0,11.0,4.68,1.44,0.0,4Yr,"Gonzaga University (Spokane, WA)",1
+2006,1,,30,30.0,Y,"$950,000",Adam Ottavino (minors),RHP,14.9,354.0,24.0,0.0,0.083,0.203,664.0,39.0,41.0,3.42,1.28,45.0,4Yr,"Northeastern University (Boston, MA)",1
+2006,1s,,42,42.0,Y,"$800,000",*Chris Perez (minors),RHP,4.7,125.0,2.0,0.0,0.0,0.0,393.0,16.0,24.0,3.51,1.24,133.0,4Yr,"University of Miami (Coral Gables, FL)",1
+2005,1,,28,28.0,Y,"$1,000,000",*Colby Rasmus (minors),OF,20.2,1092.0,3704.0,166.0,0.241,0.745,,,,,,,HS,"Russell County HS (Seale, AL)",1
+2005,1,,30,30.0,Y,"$1,100,000",Tyler Greene (minors),SS,-0.4,288.0,675.0,17.0,0.224,0.645,,,,,,,4Yr,"Georgia Institute of Technology (Atlanta, GA)",1
+2005,1s,,43,43.0,Y,"$800,000",*Mark McCormick (minors),RHP,,,,,,,,,,,,,4Yr,"Baylor University (Waco, TX)",1
+2005,1s,,46,46.0,Y,"$675,000",*Tyler Herron (minors),RHP,,,,,,,,,,,,,HS,"Wellington HS (Wellington, FL)",1
+2004,1,,19,19.0,Y,"$1,525,000",Chris Lambert (minors),RHP,-0.8,0.0,0.0,0.0,,,14.0,1.0,3.0,7.36,1.97,0.0,4Yr,"Boston College (Chestnut Hill, MA)",1
+2003,1,,28,28.0,Y,"$975,000",Daric Barton (minors),C,8.9,551.0,1744.0,30.0,0.247,0.721,,,,,,,HS,"Marina HS (Huntington Beach, CA)",1
+2001,1,,28,28.0,Y,"$900,000",Justin Pope (minors),RHP,,,,,,,,,,,,,4Yr,"University of Central Florida (Orlando, FL)",1
+2000,1,,13,13.0,Y,"$1,750,000",Shaun Boyd (minors),OF,,,,,,,,,,,,,HS,"Vista HS (Vista, CA)",1
+2000,1,,24,24.0,Y,"$1,375,000",*Blake Williams (minors),RHP,,,,,,,,,,,,,4Yr,"Texas State University (San Marcos, TX)",1
+1999,1,,30,30.0,Y,"$1,200,000",*Chance Caple (minors),RHP,,,,,,,,,,,,,4Yr,"Texas A&M University (College Station, TX)",1
+1999,1s,,36,36.0,Y,"$1,410,000",*Nick Stocks (minors),RHP,,,,,,,,,,,,,4Yr,"Florida State University (Tallahassee, FL)",1
+1999,1s,,46,46.0,Y,"$900,000",*Chris Duncan (minors),1B,2.8,389.0,1147.0,55.0,0.257,0.806,,,,,,,HS,"Canyon del Oro HS (Tucson, AZ)",1
+1998,1,,5,5.0,Y,"$3,000,000",J.D. Drew (minors),OF,44.9,1566.0,5173.0,242.0,0.278,0.873,,,,,,,,,1
+1998,1s,,32,32.0,N,,*Ben Diggins (minors),1B,-0.7,5.0,7.0,0.0,0.143,0.286,5.0,0.0,4.0,8.63,1.92,0.0,HS,"Bradshaw Mountain HS (Prescott Valley, AZ)",1
+1997,1,,20,20.0,Y,"$650,000",Adam Kennedy (minors),SS,20.9,1691.0,5473.0,80.0,0.272,0.711,,,,,,,4Yr,"California State University, Northridge (Los Angeles, CA)",1
+1996,1,,3,3.0,Y,"$1,675,000",Braden Looper (minors),RHP,8.2,646.0,186.0,0.0,0.215,0.517,670.0,72.0,65.0,4.15,1.37,103.0,4Yr,"Wichita State University (Wichita, KS)",1
+1995,1,,12,12.0,Y,"$850,000",Matt Morris (minors),RHP,20.4,298.0,543.0,2.0,0.169,0.422,307.0,121.0,92.0,3.98,1.32,4.0,4Yr,"Seton Hall University (South Orange, NJ)",1
+1995,1s,,29,29.0,Y,,*Chris Haas (minors),3B,,,,,,,,,,,,,HS,"St. Mary's HS (Paducah, KY)",1
+1994,1,,19,19.0,Y,"$525,000",Bret Wagner (minors),LHP,,,,,,,,,,,,,4Yr,"Wake Forest University (Winston-Salem, NC)",1
+1993,1,,16,16.0,Y,"$500,000",Alan Benes (minors),RHP,1.3,107.0,139.0,0.0,0.158,0.378,115.0,29.0,28.0,4.59,1.44,1.0,4Yr,"Creighton University (Omaha, NE)",1
+1992,1,,15,15.0,Y,"$300,000",Sean Lowe (minors),RHP,1.7,74.0,22.0,0.0,0.136,0.273,248.0,23.0,15.0,4.95,1.54,3.0,4Yr,"Arizona State University (Tempe, AZ)",1
+1991,1,,4,4.0,Y,"$385,000",Dmitri Young (minors),3B,12.2,1364.0,4762.0,171.0,0.292,0.826,,,,,,,HS,"Rio Mesa HS (Oxnard, CA)",1
+1991,1,,21,21.0,Y,"$225,000",*Allen Watson (minors),LHP,2.7,105.0,175.0,0.0,0.257,0.636,206.0,51.0,55.0,5.03,1.49,1.0,4Yr,"New York Institute of Technology (Old Westbury, NY)",1
+1991,1,,22,22.0,Y,"$200,000",*Brian Barber (minors),RHP,-0.6,12.0,8.0,0.0,0.125,0.347,26.0,5.0,8.0,6.77,1.68,1.0,HS,"Dr. Phillips HS (Orlando, FL)",1
+1991,1s,,28,28.0,Y,,*Tom McKinnon (minors),RHP,,,,,,,,,,,,,HS,"Jordan HS (Long Beach, CA)",1
+1991,1s,,39,39.0,Y,,*Dan Cholowsky (minors),3B,,,,,,,,,,,,,4Yr,"University of California, Berkeley (Berkeley, CA)",1
+1990,1,,13,13.0,Y,"$240,000",Donovan Osborne (minors),LHP,5.4,156.0,259.0,1.0,0.162,0.422,163.0,49.0,46.0,4.03,1.31,0.0,4Yr,"University of Nevada, Las Vegas (Paradise, NV)",1
+1990,1,,18,18.0,Y,"$195,000",*Aaron Holbert (minors),SS,-0.4,23.0,30.0,0.0,0.2,0.565,,,,,,,HS,"Jordan HS (Long Beach, CA)",1
+1990,1s,,30,30.0,Y,,*Paul Ellis (minors),C,,,,,,,,,,,,,4Yr,"University of California, Los Angeles (Los Angeles, CA)",1
+1989,1,,6,6.0,Y,"$160,000",Paul Coleman (minors),OF,,,,,,,,,,,,,HS,"Frankston HS (Frankston, TX)",1
+1988,1,,22,22.0,Y,"$92,500",*John Ericks (minors),RHP,0.0,57.0,36.0,0.0,0.083,0.194,57.0,8.0,14.0,4.78,1.51,14.0,4Yr,"University of Illinois at Urbana-Champaign (Champaign, IL)",1
+1988,1,,23,23.0,Y,"$92,500",Brad Duvall (minors),RHP,,,,,,,,,,,,,4Yr,"Virginia Polytechnic Institute and State University (Blacksburg, VA)",1
+1988,1s,,30,30.0,Y,,*Brian Jordan (minors),OF,32.9,1456.0,5160.0,184.0,0.282,0.788,,,,,,,4Yr,"University of Richmond (Richmond, VA)",1
+1987,1,,14,14.0,Y,"$160,000",Cris Carpenter (minors),RHP,2.4,210.0,30.0,0.0,0.267,0.533,291.0,27.0,22.0,3.91,1.28,7.0,4Yr,"University of Georgia (Athens, GA)",1
+1986,1,,23,23.0,Y,"$82,500",Luis Alicea (minors),2B,11.9,1341.0,3971.0,47.0,0.26,0.715,,,,,,,4Yr,"Florida State University (Tallahassee, FL)",1
+1985,1,,18,18.0,Y,"$110,000",Joe Magrane (minors),LHP,12.0,149.0,280.0,4.0,0.139,0.392,190.0,57.0,67.0,3.81,1.34,0.0,4Yr,"University of Arizona (Tucson, AZ)",1
+1984,1,,7,7.0,Y,"$116,000",Mike Dunne (minors),RHP,0.1,70.0,109.0,0.0,0.101,0.286,85.0,25.0,30.0,4.08,1.47,0.0,4Yr,"Bradley University (Peoria, IL)",1
+1983,1,,24,24.0,Y,"$57,500",Jim Lindeman (minors),3B,-0.2,351.0,676.0,21.0,0.244,0.68,,,,,,,4Yr,"Bradley University (Peoria, IL)",1
+1982,1,,21,21.0,Y,"$66,000",Todd Worrell (minors),RHP,10.9,614.0,27.0,0.0,0.074,0.255,617.0,50.0,52.0,3.09,1.23,256.0,4Yr,"Biola University (La Mirada, CA)",1
+1981,1,,8,8.0,Y,"$92,500",Bob Meacham (minors),SS,3.9,457.0,1371.0,8.0,0.236,0.621,,,,,,,4Yr,"San Diego State University (San Diego, CA)",1
+1980,1,,15,15.0,Y,"$50,000",Donald Collins (minors),RHP,,,,,,,,,,,,,HS,"Ferguson HS (Newport News, VA)",1
+1979,1,,6,6.0,Y,"$42,500",Andy Van Slyke (minors),OF,41.3,1658.0,5711.0,164.0,0.274,0.792,,,,,,,HS,"New Hartford HS (New Hartford, NY)",1
+1978,1,,15,15.0,Y,"$40,000",Bob Hicks (minors),1B,,,,,,,,,,,,,HS,"Gonzalez Tate HS (Pensacola, FL)",1
+1977,1,,6,6.0,Y,"$50,000",Terry Kennedy (minors),C,21.6,1491.0,4979.0,113.0,0.264,0.699,,,,,,,4Yr,"Florida State University (Tallahassee, FL)",1
+1976,1,,15,15.0,Y,"$37,000",Leon Durham (minors),1B,16.3,1067.0,3587.0,147.0,0.277,0.831,,,,,,,HS,"Woodward HS (Cincinnati, OH)",1
+1975,1,,16,16.0,Y,"$30,000",David Johnson (minors),LHP,,,,,,,,,,,,,HS,"Gaylord HS (Gaylord, MI)",1
+1974,1,,13,13.0,Y,"$37,500",Garry Templeton (minors),SS,27.8,2079.0,7721.0,70.0,0.272,0.673,,,,,,,HS,"Santa Ana Valley HS (Santa Ana, CA)",1
+1973,1,,12,12.0,Y,"$58,000",Joe Edelen (minors),3B,-0.9,27.0,7.0,0.0,0.286,0.571,27.0,2.0,0.0,6.75,1.48,0.0,HS,"Gracemont HS (Gracemont, OK)",1
+1972,1,,21,21.0,Y,"$53,500",Dan Larson (minors),RHP,-0.8,80.0,97.0,0.0,0.217,0.513,78.0,10.0,25.0,4.4,1.46,1.0,HS,"Alhambra HS (Alhambra, CA)",1
+1971,1,,8,8.0,Y,"$83,750",Ed Kurpiel (minors),1B,,,,,,,,,,,,,HS,"Archbishop Molloy HS (Queens, NY)",1
+1970,1,,11,11.0,Y,"$25,000",Jim Browning (minors),RHP,,,,,,,,,,,,,HS,"Emma Sansom HS (Gadsden, AL)",1
+1969,1,,20,20.0,Y,"$38,000",Charles Minott (minors),LHP,,,,,,,,,,,,,HS,"Royal Oak HS (Covina, CA)",1
+1968,1,,19,19.0,Y,"$20,000",Butch Hairston (minors),OF,,,,,,,,,,,,,HS,"Roth HS (Dayton, OH)",1
+1967,1,,10,10.0,Y,"$30,000",Ted Simmons (minors),C,50.3,2456.0,8680.0,248.0,0.285,0.785,,,,,,,HS,"Southfield HS (Southfield, MI)",1
+1966,1,,7,7.0,Y,"$24,500",Leron Lee (minors),INF,2.1,614.0,1617.0,31.0,0.25,0.682,,,,,,,HS,"Grant Union HS (Sacramento, CA)",1
+1965,1,,20,20.0,Y,"$16,000",Joe DiFabio (minors),RHP,,,,,,,,,,,,,4Yr,"Delta State University (Cleveland, MS)",1
+2022,2,,59,20.0,Y,"$1,100,000",Brycen Mautz (minors),P,,,,,,,,,,,,,4Yr,"University of San Diego (San Diego, CA)",2
+2021,2,,54,18.0,Y,"$2,250,000",Joshua Baez (minors),OF,,,,,,,,,,,,,HS,"Dexter School (Brookline, MA)",2
+2021,2,,70,34.0,Y,"$875,000",Ryan Holgate (minors),OF,,,,,,,,,,,,,4Yr,"University of Arizona (Tucson, AZ)",2
+2020,2,,54,17.0,Y,"$2,100,000",Masyn Winn (minors),SS,-0.6,37.0,122.0,2.0,0.172,0.467,,,,,,,HS,"Kingwood HS (Kingwood, TX)",2
+2020,2,,63,26.0,Y,"$1,115,000",Tink Hence (minors),P,,,,,,,,,,,,,HS,"Watson Chapel HS (Pine Bluff, AR)",2
+2020,2,,70,33.0,Y,"$700,000",Alec Burleson (minors),OF,-0.8,123.0,363.0,9.0,0.237,0.67,2.0,0.0,0.0,21.6,4.8,0.0,4Yr,"East Carolina University (Greenville, NC)",2
+2019,2,,58,17.0,Y,"$1,500,000",Tre Fletcher (minors),CF,,,,,,,,,,,,,HS,"Deering HS (Portland, ME)",2
+2018,2,,75,32.0,Y,"$800,000",Luken Baker (minors),1B,-0.4,33.0,86.0,2.0,0.209,0.627,,,,,,,4Yr,"Texas Christian University (Fort Worth, TX)",2
+2016,2,,70,29.0,Y,"$1,100,000",Connor Jones (minors),RHP,,,,,,,,,,,,,4Yr,"University of Virginia (Charlottesville, VA)",2
+2015,2,,66,24.0,Y,"$1,200,000",Bryce Denton (minors),3B,,,,,,,,,,,,,HS,"Ravenwood HS (Brentwood, TN)",2
+2014,2,,68,27.0,Y,"$833,900",Ronnie Williams (minors),RHP,,,,,,,,,,,,,HS,"American Senior HS (Hialeah, FL)",2
+2014,2,,71,30.0,Y,"$546,100",Andrew Morales (minors),RHP,,,,,,,,,,,,,4Yr,"University of California, Irvine (Irvine, CA)",2
+2013,2,,57,18.0,Y,"$1,500,000",�scar Mercado (minors),SS,2.6,298.0,890.0,26.0,0.237,0.677,,,,,,,HS,"Vivian Gaither HS (Tampa, FL)",2
+2012,2,,86,26.0,Y,"$1,600,000",Carson Kelly (minors),3B,3.5,465.0,1310.0,45.0,0.221,0.68,8.0,0.0,0.0,7.56,2.64,0.0,HS,"Westview HS (Portland, OR)",2
+2011,2,,79,19.0,Y,"$1,275,000",Charlie Tilson (minors),CF,-1.6,96.0,252.0,1.0,0.246,0.6,,,,,,,HS,"New Trier HS (Winnetka, IL)",2
+2010,2,,75,25.0,Y,"$625,000",Jordan Swagerty (minors),RHP,,,,,,,,,,,,,4Yr,"Arizona State University (Tempe, AZ)",2
+2009,2,,67,18.0,Y,"$525,000",Robert Stock (minors),C,-0.4,43.0,4.0,0.0,0.0,0.0,55.0,2.0,4.0,4.71,1.61,0.0,4Yr,"University of Southern California (Los Angeles, CA)",2
+2008,2,,59,13.0,Y,"$683,000",Shane Peterson (minors),OF,1.0,125.0,287.0,4.0,0.254,0.678,,,,,,,4Yr,"California State University, Long Beach (Long Beach, CA)",2
+2007,2,,71,7.0,Y,"$459,000",*David Kopp (minors),RHP,,,,,,,,,,,,,4Yr,"Clemson University (Clemson, SC)",2
+2007,2,,82,18.0,Y,"$400,000",Jess Todd (minors),RHP,-0.4,1.0,0.0,0.0,,,25.0,0.0,1.0,7.62,1.94,0.0,4Yr,"University of Arkansas (Fayetteville, AR)",2
+2006,2,,54,10.0,Y,"$600,000",*Brad Furnish (minors),LHP,,,,,,,,,,,,,4Yr,"Texas Christian University (Fort Worth, TX)",2
+2006,2,,74,30.0,Y,"$480,000",Jon Jay (minors),OF,12.7,1201.0,3838.0,37.0,0.283,0.721,1.0,0.0,0.0,0.0,1.0,0.0,4Yr,"University of Miami (Coral Gables, FL)",2
+2006,2s,,76,32.0,Y,"$465,000",*Mark Hamilton (minors),1B,-0.3,47.0,61.0,0.0,0.197,0.504,,,,,,,4Yr,"Tulane University (New Orleans, LA)",2
+2005,2,,70,22.0,Y,"$515,000",*Josh Wilson (minors),RHP,,,,,,,,,,,,,HS,"Whitehouse HS (Whitehouse, TX)",2
+2005,2,,78,30.0,Y,"$425,000",Nicholas Webber (minors),RHP,,,,,,,,,,,,,4Yr,"University of Central Missouri (Warrensburg, MO)",2
+2004,2,,60,19.0,Y,"$600,000",Mike Ferris (minors),1B,,,,,,,,,,,,,4Yr,"Miami University of Ohio (Oxford, OH)",2
+2003,2,,65,28.0,Y,"$570,000",Stu Pomeranz (minors),RHP,0.1,0.0,0.0,0.0,,,3.0,0.0,0.0,3.0,1.33,0.0,HS,"Houston HS (Germantown, TN)",2
+2001,2,,72,28.0,Y,"$530,000",Dan Haren (minors),RHP,35.1,218.0,414.0,2.0,0.201,0.511,391.0,153.0,131.0,3.75,1.18,1.0,4Yr,"Pepperdine University (Malibu, CA)",2
+2000,2,,53,13.0,Y,"$675,000",Chris Narveson (minors),LHP,0.6,113.0,119.0,0.0,0.21,0.483,118.0,30.0,19.0,4.71,1.35,0.0,HS,"T. C. Roberson HS (Asheville, NC)",2
+1999,2s,,82,31.0,Y,"$410,000",*Josh Pearce (minors),RHP,-0.3,13.0,4.0,0.0,0.25,0.5,13.0,0.0,0.0,5.55,1.81,0.0,4Yr,"University of Arizona (Tucson, AZ)",2
+1998,2,,48,5.0,Y,"$2,300,000",Chad Hutchinson (minors),RHP,-0.5,3.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,24.75,3.75,0.0,4Yr,"Stanford University (Palo Alto, CA)",2
+1998,2,,55,12.0,Y,"$650,000",*Tim Lemon (minors),OF,,,,,,,,,,,,,HS,"La Mirada HS (La Mirada, CA)",2
+1997,2,,72,20.0,Y,"$2,500,000",Rick Ankiel (minors),LHP,9.1,651.0,1921.0,76.0,0.241,0.724,51.0,13.0,10.0,3.9,1.36,1.0,HS,"Port St. Lucie HS (Port St. Lucie, FL)",2
+1995,2,,44,14.0,Y,,*Jay Woolf (minors),SS,,,,,,,,,,,,,HS,"American HS (Miami, FL)",2
+1994,2,,53,19.0,Y,,Carl Dale (minors),RHP,-0.4,4.0,0.0,0.0,,,4.0,0.0,1.0,20.25,3.5,0.0,4Yr,"Winthrop University (Rock Hill, SC)",2
+1993,2,,44,2.0,Y,,*Nate Dishington (minors),1B,,,,,,,,,,,,,HS,"Herbert Hoover HS (Glendale, CA)",2
+1993,2,,58,16.0,Y,,Jay Witasick (minors),RHP,2.6,208.0,42.0,0.0,0.071,0.164,405.0,32.0,41.0,4.64,1.56,5.0,4Yr,"University of Maryland, Baltimore County (Baltimore, MD)",2
+1992,2,,53,15.0,Y,,Mike Gulan (minors),3B,-0.3,11.0,15.0,0.0,0.0,0.167,,,,,,,4Yr,"Kent State University (Kent, OH)",2
+1991,2,,46,2.0,Y,,*Eddie Williams (minors),C,,,,,,,,,,,,,HS,"Miami Edison HS (Miami, FL)",2
+1989,2,,36,6.0,Y,,Mike Milchin (minors),LHP,-0.6,0.0,0.0,0.0,,,39.0,3.0,1.0,7.44,1.87,0.0,4Yr,"Clemson University (Clemson, SC)",2
+1988,2,,53,23.0,Y,,Mike Hensley (minors),RHP,,,,,,,,,,,,,4Yr,"University of Oklahoma (Norman, OK)",2
+1987,2,,46,14.0,Y,,Jeremy Hernandez (minors),RHP,1.9,84.0,7.0,0.0,0.0,0.0,133.0,10.0,14.0,3.64,1.34,20.0,4Yr,"California State University, Northridge (Los Angeles, CA)",2
+1986,2,,51,23.0,Y,,Reed Olmstead (minors),1B,,,,,,,,,,,,,HS,"Blair HS (Pasadena, CA)",2
+1986,2s,,55,27.0,Y,,*Todd Zeile (minors),C,19.3,2158.0,7573.0,253.0,0.265,0.769,2.0,0.0,0.0,22.5,3.5,0.0,4Yr,"University of California, Los Angeles (Los Angeles, CA)",2
+1985,2,,42,14.0,Y,,*Jim Fregosi (minors),SS,,,,,,,,,,,,,4Yr,"University of New Mexico (Albuquerque, NM)",2
+1985,2,,46,18.0,Y,,Tim Jones (minors),SS,0.1,252.0,485.0,1.0,0.233,0.595,1.0,0.0,0.0,6.75,2.25,0.0,4Yr,"The Citadel (Charleston, SC)",2
+1984,2,,35,7.0,Y,,Matt Kinzer (minors),RHP,-1.5,8.0,1.0,0.0,0.0,0.0,9.0,0.0,2.0,13.2,2.33,0.0,4Yr,"Purdue University (West Lafayette, IN)",2
+1983,2,,40,12.0,Y,,*Paul Oates (minors),LHP,,,,,,,,,,,,,HS,"Bishop Alemany HS (Mission Hills, CA)",2
+1983,2,,52,24.0,N,,Gary Green (minors),SS,0.1,106.0,180.0,0.0,0.222,0.53,,,,,,,4Yr,"Oklahoma State University (Stillwater, OK)",2
+1982,2,,49,21.0,Y,,Tim Wallace (minors),C,,,,,,,,,,,,,4Yr,"Wofford College (Spartanburg, SC)",2
+1980,2,,41,15.0,N,,Dan Plesac (minors),LHP,16.9,441.0,15.0,0.0,0.067,0.133,1064.0,65.0,71.0,3.64,1.29,158.0,HS,"Crown Point HS (Crown Point, IN)",2
+1978,2,,41,15.0,Y,,Dave Kable (minors),1B,,,,,,,,,,,,,HS,"West HS (Columbus, OH)",2
+1977,2,,32,6.0,N,,Ricky Wright (minors),LHP,0.7,22.0,8.0,0.0,0.125,0.375,55.0,3.0,3.0,4.3,1.58,0.0,HS,"Paris HS (Paris, TX)",2
+1976,2,,39,15.0,Y,,Walt Pierce (minors),3B,,,,,,,,,,,,,HS,"Wilcox HS (Santa Clara, CA)",2
+1975,2,,40,16.0,Y,,Kelly Paris (minors),SS,-1.0,92.0,212.0,3.0,0.217,0.557,,,,,,,HS,"William Howard Taft Charter HS (Woodland Hills, CA)",2
+1974,2,,37,13.0,Y,,Robert Hrapman (minors),SS,,,,,,,,,,,,,4Yr,"Northwestern State University of Louisiana (Natchitoches, LA)",2
+1973,2,,36,12.0,Y,,Ron Selak (minors),RHP,,,,,,,,,,,,,HS,"El Cerrito HS (El Cerrito, CA)",2
+1972,2,,45,21.0,Y,,Gary Blackwell (minors),SS,,,,,,,,,,,,,HS,"Ben C. Rain HS (Mobile, AL)",2
+1971,2,,32,8.0,Y,,Gary Christophel (minors),LHP,,,,,,,,,,,,,HS,"Mount Healthy HS (Cincinnati, OH)",2
+1970,2,,35,11.0,Y,,Ron Kinner (minors),C,,,,,,,,,,,,,HS,"Dunbar HS (Burleson, TX)",2
+1969,2,,44,20.0,Unk,,John Nixon (minors),SS,,,,,,,,,,,,,HS,"New Hanover HS (Wilmington, NC)",2
+1968,2,,39,19.0,N,,Wade Boyett (minors),RHP,,,,,,,,,,,,,HS,"Davidson HS (Mobile, AL)",2
+1967,2,,30,10.0,Y,,Jerry Reuss (minors),LHP,35.1,552.0,1024.0,1.0,0.167,0.415,628.0,220.0,191.0,3.64,1.32,11.0,HS,"Ritenour HS (St. Louis, MO)",2
+1966,2,,27,7.0,Y,,Danny Barrett (minors),SS,,,,,,,,,,,,,HS,"Hillcrest HS (Springfield, MO)",2
+1965,2,,40,20.0,Y,,Terry Milani (minors),1B,,,,,,,,,,,,,4Yr,"Lewis University (Romeoville, IL)",2
+2023,3,,90,20.0,Y,"$700,000",Travis Honeyman (minors),OF,,,,,,,,,,,,,4Yr,"Boston College (Chestnut Hill, MA)",3
+2022,3,,97,17.0,Y,"$629,800",Pete Hansen (minors),P,,,,,,,,,,,,,4Yr,"University of Texas at Austin (Austin, TX)",3
+2021,3,,90,19.0,Y,"$600,000",Austin Love (minors),P,,,,,,,,,,,,,4Yr,"University of North Carolina at Chapel Hill (Chapel Hill, NC)",3
+2020,3,,93,21.0,Y,"$575,000",Levi Prater (minors),P,,,,,,,,,,,,,4Yr,"University of Oklahoma (Norman, OK)",3
+2019,3,,96,18.0,Y,"$604,800",Tony Locey (minors),P,,,,,,,,,,,,,4Yr,"University of Georgia (Athens, GA)",3
+2018,3,,95,17.0,Y,"$900,000",Mateo Gil (minors),SS,,,,,,,,,,,,,HS,"Timber Creek HS (Fort Worth, TX)",3
+2017,3,,94,19.0,Y,"$450,000",Scott Hurst (minors),CF,-0.1,7.0,5.0,0.0,0.0,0.0,,,,,,,4Yr,"California State University, Fullerton (Fullerton, CA)",3
+2016,3,,106,29.0,Y,"$563,100",Zac Gallen (minors),RHP,17.0,36.0,51.0,0.0,0.157,0.369,115.0,39.0,31.0,3.21,1.11,0.0,4Yr,"University of North Carolina at Chapel Hill (Chapel Hill, NC)",3
+2015,3,,100,25.0,Y,"$400,000",Harrison Bader (minors),OF,12.1,635.0,1895.0,59.0,0.243,0.706,,,,,,,4Yr,"University of Florida (Gainesville, FL)",3
+2015,3,,105,30.0,Y,"$600,000",Jordan Hicks (minors),RHP,1.6,105.0,1.0,0.0,0.0,0.0,212.0,11.0,21.0,3.85,1.3,32.0,HS,"Cypress Creek HS (Houston, TX)",3
+2014,3,,104,30.0,N,,Trevor Megill (minors),RHP,-1.2,27.0,0.0,0.0,,,98.0,6.0,5.0,5.23,1.53,0.0,4Yr,"Loyola Marymount University (Los Angeles, CA)",3
+2013,3,,93,20.0,Y,"$510,000",Mike Mayers (minors),RHP,0.0,80.0,2.0,0.0,0.0,0.333,204.0,12.0,11.0,5.21,1.43,5.0,4Yr,"University of Mississippi (Oxford, MS)",3
+2012,3,,117,22.0,Y,"$404,400",Tim Cooney (minors),LHP,0.7,6.0,10.0,0.0,0.3,0.7,6.0,1.0,0.0,3.16,1.21,0.0,4Yr,"Wake Forest University (Winston-Salem, NC)",3
+2011,3,,109,19.0,Y,"$510,000",C.J. McElroy (minors),CF,,,,,,,,,,,,,HS,"Clear Creek HS (League City, TX)",3
+2010,3,,106,24.0,Y,"$299,700",Sam Tuivailala (minors),SS,1.9,90.0,0.0,0.0,,,124.0,8.0,7.0,3.33,1.33,0.0,HS,"Aragon HS (San Mateo, CA)",3
+2009,3,,98,18.0,Y,"$341,000",Joe Kelly (minors),RHP,5.8,189.0,92.0,0.0,0.163,0.385,450.0,53.0,37.0,3.95,1.36,7.0,4Yr,"University of California, Riverside (Riverside, CA)",3
+2008,3,,91,14.0,Y,"$423,000",Niko Vasquez (minors),SS,,,,,,,,,,,,,HS,"Durango HS (Las Vegas, NV)",3
+2007,3,,112,18.0,Y,"$255,000",Daniel Descalso (minors),3B,0.4,1079.0,2519.0,48.0,0.235,0.683,6.0,0.0,0.0,6.75,1.05,0.0,4Yr,"University of California, Davis (Davis, CA)",3
+2006,3,,106,30.0,Y,"$325,000",Gary Daley (minors),RHP,,,,,,,,,,,,,4Yr,"California Polytechnic State University, San Luis Obispo (San Luis Obispo, CA)",3
+2005,3,,110,30.0,Y,"$450,000",Daryl Jones (minors),OF,,,,,,,,,,,,,HS,"Spring HS (Spring, TX)",3
+2004,3,,90,19.0,Y,"$422,500",Eric Haberer (minors),LHP,,,,,,,,,,,,,4Yr,"Southern Illinois University Carbondale (Carbondale, IL)",3
+2003,3,,95,28.0,Y,"$400,000",Dennis Dove (minors),RHP,-0.2,3.0,0.0,0.0,,,3.0,0.0,0.0,15.0,2.0,0.0,4Yr,"Georgia Southern University (Statesboro, GA)",3
+2002,3,,102,30.0,Y,,Calvin Hayes (minors),SS,,,,,,,,,,,,,HS,"East Rowan HS (Salisbury, NC)",3
+2001,3,,104,28.0,Y,,Joe Mather (minors),SS,-2.5,229.0,493.0,14.0,0.219,0.628,2.0,0.0,1.0,7.71,2.57,0.0,HS,"Mountain Pointe HS (Phoenix, AZ)",3
+2000,3,,83,13.0,Y,"$430,000",Chase Voshell (minors),SS,,,,,,,,,,,,,4Yr,"Wake Forest University (Winston-Salem, NC)",3
+1999,3,,102,18.0,Y,,B.R. Cook (minors),RHP,,,,,,,,,,,,,4Yr,"Oregon State University (Corvallis, OR)",3
+1998,3,,78,5.0,Y,"$220,000",Gabe Johnson (minors),C,,,,,,,,,,,,,HS,"Atlantic Community HS (Delray Beach, FL)",3
+1997,3,,104,20.0,Y,,Patrick Coogan (minors),RHP,,,,,,,,,,,,,4Yr,"Louisiana State University (Baton Rouge, LA)",3
+1996,3,,68,3.0,Y,,Brent Butler (minors),SS,-0.3,203.0,553.0,11.0,0.248,0.664,,,,,,,HS,"Scotland HS (Laurinburg, NC)",3
+1995,3,,71,12.0,Y,,Billy Deck (minors),1B,,,,,,,,,,,,,HS,"Potomac HS (Dumfries, VA)",3
+1994,3,,82,19.0,Y,,Corey Avrard (minors),RHP,,,,,,,,,,,,,HS,"Archbishop Rummel HS (Metairie, LA)",3
+1993,3,,88,16.0,Y,,Eli Marrero (minors),C,4.9,724.0,1906.0,66.0,0.243,0.714,,,,,,,HS,"Coral Gables HS (Coral Gables, FL)",3
+1992,3,,83,15.0,Y,,Steve Montgomery (minors),RHP,0.6,54.0,1.0,0.0,1.0,2.0,72.0,2.0,8.0,4.98,1.59,3.0,4Yr,"Pepperdine University (Malibu, CA)",3
+1991,3,,77,4.0,Y,,Basil Shabazz (minors),OF,,,,,,,,,,,,,HS,"Pine Bluff HS (Pine Bluff, AR)",3
+1990,3,,86,13.0,Y,,Marc Ronan (minors),C,-0.2,6.0,12.0,0.0,0.083,0.167,,,,,,,4Yr,"Florida State University (Tallahassee, FL)",3
+1989,3,,66,6.0,Y,,Tripp Cromer (minors),SS,-0.5,196.0,524.0,12.0,0.225,0.605,,,,,,,4Yr,"University of South Carolina (Columbia, SC)",3
+1988,3,,80,23.0,Y,,Charlie White (minors),OF,,,,,,,,,,,,,4Yr,"University of New Orleans (New Orleans, LA)",3
+1987,3,,72,14.0,Y,,Ray Lankford (minors),OF,38.2,1701.0,5747.0,238.0,0.272,0.841,,,,,,,JC,"Modesto Junior College (Modesto, CA)",3
+1986,3,,78,23.0,Y,,Dave Sala (minors),LHP,,,,,,,,,,,,,4Yr,"University of Cincinnati (Cincinnati, OH)",3
+1985,3,,72,18.0,Y,,Mike Henry (minors),RHP,,,,,,,,,,,,,HS,"Chamberlain HS (Tampa, FL)",3
+1984,3,,61,7.0,Y,,Ron Johns (minors),1B,,,,,,,,,,,,,4Yr,"California State Polytechnic University, Pomona (Pomona, CA)",3
+1983,3,,78,24.0,Y,,John Rigos (minors),OF,,,,,,,,,,,,,4Yr,"Coastal Carolina University (Conway, SC)",3
+1982,3,,75,21.0,Y,,John Young (minors),LHP,,,,,,,,,,,,,4Yr,"Bradley University (Peoria, IL)",3
+1981,3,,60,8.0,Y,,Tom Nieto (minors),C,-2.3,251.0,619.0,5.0,0.205,0.561,,,,,,,4Yr,"Oral Roberts University (Tulsa, OK)",3
+1980,3,,67,15.0,Unk,,Dan Stryffeler (minors),OF,,,,,,,,,,,,,HS,"Austintown Fitch HS (Austintown, OH)",3
+1979,3,,58,6.0,N,,Ed Vosberg (minors),LHP,1.9,106.0,2.0,0.0,0.0,0.0,266.0,10.0,15.0,4.32,1.54,13.0,HS,"Salpointe Catholic HS (Tucson, AZ)",3
+1978,3,,67,15.0,N,,Mike Moore (minors),RHP,27.9,4.0,1.0,0.0,0.0,0.0,450.0,161.0,176.0,4.39,1.42,2.0,HS,"Eakly HS (Eakly, OK)",3
+1977,3,,58,6.0,Y,,Joe DeSa (minors),1B,0.0,35.0,55.0,2.0,0.2,0.587,,,,,,,HS,"Damien HS (Honolulu, HI)",3
+1976,3,,63,15.0,Y,,Jere Schuler (minors),LHP,,,,,,,,,,,,,HS,"Lampeter-Strasburg HS (Lampeter, PA)",3
+1975,3,,64,16.0,Y,,Mike Ramsey (minors),SS,-1.3,394.0,786.0,2.0,0.241,0.581,,,,,,,4Yr,"Appalachian State University (Boone, NC)",3
+1974,3,,61,13.0,Y,,Gregory Herman (minors),LHP,,,,,,,,,,,,,HS,"Lakewood HS (Lakewood, CA)",3
+1973,3,,60,12.0,Y,,Paul Husband (minors),OF,,,,,,,,,,,,,4Yr,"University of Mississippi (Oxford, MS)",3
+1972,3,,69,21.0,Y,,John Crider (minors),OF,,,,,,,,,,,,,HS,"Carlsbad HS (Carlsbad, NM)",3
+1971,3,,56,8.0,Y,,Larry Herndon (minors),OF,15.1,1537.0,4877.0,107.0,0.274,0.731,,,,,,,HS,"Douglass HS (Memphis, TN)",3
+1970,3,,59,11.0,Y,,Eddie Wheeler (minors),INF,,,,,,,,,,,,,HS,"Sarasota HS (Sarasota, FL)",3
+1969,3,,68,20.0,Y,,Mick Kelleher (minors),SS,-2.4,622.0,1081.0,0.0,0.213,0.52,,,,,,,4Yr,"University of Puget Sound (Tacoma, WA)",3
+1968,3,,59,19.0,N,,Mark Kitchell (minors),OF,,,,,,,,,,,,,HS,"Mamaroneck HS (Mamaroneck, NY)",3
+1967,3,,50,10.0,N,,Bart Johnson (minors),RHP,9.7,84.0,93.0,0.0,0.215,0.495,185.0,43.0,51.0,3.94,1.43,17.0,HS,"Torrance HS (Torrance, CA)",3
+1966,3,,47,7.0,Y,,Clay Kirby (minors),RHP,7.0,265.0,478.0,0.0,0.098,0.265,261.0,75.0,104.0,3.84,1.38,0.0,HS,"Washington-Liberty HS (Arlington, VA)",3
+1965,3,,60,20.0,Y,,Billy Wolff (minors),OF,,,,,,,,,,,,,4Yr,"University of Cincinnati (Cincinnati, OH)",3
+2023,4,,122,21.0,Y,"$600,000",Quinn Mathews (minors),P,,,,,,,,,,,,,4Yr,"Stanford University (Palo Alto, CA)",4
+2022,4,,127,21.0,Y,"$470,300",Jimmy Crooks (minors),C,,,,,,,,,,,,,4Yr,"University of Oklahoma (Norman, OK)",4
+2021,4,,120,19.0,Y,"$375,000",Zane Mills (minors),P,,,,,,,,,,,,,4Yr,"Washington State University (Pullman, WA)",4
+2020,4,,122,21.0,Y,"$800,000",Ian Bedell (minors),P,,,,,,,,,,,,,4Yr,"University of Missouri (Columbia, MO)",4
+2019,4,,125,18.0,Y,"$455,600",Andre Pallante (minors),P,1.6,0.0,0.0,0.0,,,109.0,10.0,6.0,3.78,1.47,0.0,4Yr,"University of California, Irvine (Irvine, CA)",4
+2018,4,,123,19.0,Y,"$825,000",Steven Gingery (minors),LHP,,,,,,,,,,,,,4Yr,"Texas Tech University (Lubbock, TX)",4
+2017,4,,124,19.0,Y,"$150,000",Kramer Robertson (minors),SS,-0.1,2.0,1.0,0.0,0.0,0.0,,,,,,,4Yr,"Louisiana State University (Baton Rouge, LA)",4
+2016,4,,136,30.0,Y,"$600,000",Jeremy Martinez (minors),C,,,,,,,,,,,,,4Yr,"University of Southern California (Los Angeles, CA)",4
+2015,4,,131,26.0,Y,"$200,000",Paul DeJong (minors),3B,12.7,729.0,2526.0,116.0,0.229,0.716,,,,,,,4Yr,"Illinois State University (Normal, IL)",4
+2014,4,,135,30.0,Y,"$374,100",Austin Gomber (minors),LHP,3.1,49.0,51.0,0.0,0.137,0.311,126.0,30.0,28.0,4.9,1.38,0.0,4Yr,"Florida Atlantic University (Boca Raton, FL)",4
+2013,4,,125,19.0,Y,"$95,000",Mason Katz (minors),2B,,,,,,,,,,,,,4Yr,"Louisiana State University (Baton Rouge, LA)",4
+2012,4,,150,22.0,Y,"$250,000",Alex Mejia (minors),SS,-0.1,29.0,46.0,1.0,0.109,0.32,,,,,,,4Yr,"University of Arizona (Tucson, AZ)",4
+2011,4,,140,19.0,Y,"$200,000",Kenny Peoples-Walls (minors),SS,,,,,,,,,,,,,HS,"Westchester HS (Los Angeles, CA)",4
+2010,4,,139,24.0,Y,"$189,000",Cody Stanley (minors),C,0.0,9.0,10.0,0.0,0.4,0.9,,,,,,,4Yr,"University of North Carolina at Wilmington (Wilmington, NC)",4
+2009,4,,129,18.0,Y,"$75,000",Scott Bittle (minors),RHP,,,,,,,,,,,,,4Yr,"University of Mississippi (Oxford, MS)",4
+2008,4,,125,13.0,Y,"$250,000",Scott Gorgen (minors),RHP,,,,,,,,,,,,,4Yr,"University of California, Irvine (Irvine, CA)",4
+2007,4,,142,18.0,N,,Kyle Russell (minors),OF,,,,,,,,,,,,,4Yr,"University of Texas at Austin (Austin, TX)",4
+2006,4,,136,30.0,Y,"$100,000",Eddie Degerman (minors),RHP,,,,,,,,,,,,,4Yr,"Rice University (Houston, TX)",4
+2005,4,,140,30.0,Y,"$250,000",Bryan Anderson (minors),C,-0.5,40.0,68.0,0.0,0.221,0.556,,,,,,,HS,"Simi Valley HS (Simi Valley, CA)",4
+2004,4,,120,19.0,Y,"$235,000",Donnie Smith (minors),RHP,,,,,,,,,,,,,4Yr,"Old Dominion University (Norfolk, VA)",4
+2003,4,,125,28.0,Y,"$220,550",Mark Michael (minors),RHP,,,,,,,,,,,,,4Yr,"University of Delaware (Newark, DE)",4
+2002,4,,132,30.0,Y,,Kyle Boyer (minors),SS,,,,,,,,,,,,,4Yr,"Utah Tech University (St. George, UT)",4
+2001,4,,134,28.0,Y,,Josh Brey (minors),LHP,,,,,,,,,,,,,4Yr,"Liberty University (Lynchburg, VA)",4
+2000,4,,113,13.0,Y,,Yadier Molina (minors),C,42.1,2224.0,7817.0,176.0,0.277,0.726,2.0,0.0,0.0,18.0,3.0,0.0,HS,"Ladislao Martinez HS (Vega Alta, Puerto Rico)",4
+1999,4,,127,13.0,Y,,*Ben Johnson (minors),OF,0.2,98.0,222.0,7.0,0.23,0.728,,,,,,,HS,"Germantown HS (Germantown, TN)",4
+1999,4,,132,18.0,Y,,Jimmy Journell (minors),RHP,-0.4,11.0,0.0,0.0,,,12.0,0.0,1.0,7.43,2.4,0.0,4Yr,"University of Illinois at Urbana-Champaign (Champaign, IL)",4
+1998,4,,108,5.0,Y,,Bud Smith (minors),LHP,-0.3,25.0,39.0,0.0,0.18,0.425,27.0,7.0,8.0,4.95,1.45,0.0,JC,"Los Angeles Harbor College (Wilmington, CA)",4
+1997,4,,134,20.0,N,,Xavier Nady (minors),SS,3.7,961.0,2969.0,104.0,0.268,0.755,,,,,,,HS,"Salinas HS (Salinas, CA)",4
+1996,4,,98,3.0,Y,,Bryan Britt (minors),OF,,,,,,,,,,,,,4Yr,"University of North Carolina at Wilmington (Wilmington, NC)",4
+1995,4,,99,12.0,Y,,Brian Barfield (minors),RHP,,,,,,,,,,,,,JC,"Georgia Perimeter College (Covington, GA)",4
+1994,4,,110,19.0,Y,,Yates Hall (minors),RHP,,,,,,,,,,,,,4Yr,"University of Virginia (Charlottesville, VA)",4
+1993,4,,116,16.0,N,,Darrell Nicholas (minors),OF,,,,,,,,,,,,,4Yr,"University of New Orleans (New Orleans, LA)",4
+1992,4,,111,15.0,Y,,Mark Williams (minors),C,,,,,,,,,,,,,HS,"Coral Springs HS (Coral Springs, FL)",4
+1991,4,,103,4.0,Y,,Andy Bruce (minors),3B,,,,,,,,,,,,,4Yr,"Georgia Institute of Technology (Atlanta, GA)",4
+1990,4,,114,15.0,Y,,Andy Beasley (minors),C,,,,,,,,,,,,,4Yr,"Virginia Military Institute (Lexington, VA)",4
+1989,4,,93,7.0,N,,Jon Farrell (minors),OF,,,,,,,,,,,,,HS,"Sandalwood HS (Jacksonville, FL)",4
+1988,4,,106,23.0,Y,,Mike Ross (minors),2B,,,,,,,,,,,,,4Yr,"California State University, Fullerton (Fullerton, CA)",4
+1987,4,,98,14.0,N,,Mike Ignasiak (minors),RHP,0.9,0.0,0.0,0.0,,,79.0,10.0,4.0,4.8,1.5,0.0,4Yr,"University of Michigan (Ann Arbor, MI)",4
+1986,4,,104,23.0,N,,Mark Guthrie (minors),LHP,9.2,370.0,14.0,0.0,0.071,0.143,765.0,51.0,54.0,4.05,1.4,14.0,4Yr,"Louisiana State University (Baton Rouge, LA)",4
+1985,4,,98,18.0,Y,,Chico Singletary (minors),OF,,,,,,,,,,,,,HS,"C. Leon King HS (Tampa, FL)",4
+1984,4,,87,7.0,Y,,Brett Harrison (minors),SS,,,,,,,,,,,,,4Yr,"University of Arkansas (Fayetteville, AR)",4
+1983,4,,104,24.0,Y,,Kevin Whitaker (minors),LHP,,,,,,,,,,,,,HS,"Millikan HS (Long Beach, CA)",4
+1982,4,,101,21.0,Y,,Mike Shade (minors),RHP,,,,,,,,,,,,,4Yr,"West Chester University of Pennsylvania (West Chester, PA)",4
+1981,4,,85,8.0,Y,,Curt Ford (minors),2B,1.5,406.0,742.0,7.0,0.245,0.65,,,,,,,4Yr,"Jackson State University (Jackson, MS)",4
+1980,4,,92,15.0,Y,,Ricky Horton (minors),LHP,4.9,276.0,110.0,0.0,0.109,0.311,325.0,32.0,27.0,3.76,1.36,15.0,4Yr,"University of Virginia (Charlottesville, VA)",4
+1979,4,,84,6.0,Y,,John DelMonte (minors),OF,,,,,,,,,,,,,4Yr,"St. Joseph's University (Philadelphia, PA)",4
+1978,4,,93,15.0,Y,,George Bjorkman (minors),C,0.3,29.0,75.0,2.0,0.227,0.73,,,,,,,4Yr,"Oral Roberts University (Tulsa, OK)",4
+1977,4,,84,6.0,Y,,Jim Gott (minors),OF,10.5,455.0,73.0,4.0,0.178,0.57,554.0,56.0,74.0,3.87,1.38,91.0,HS,"San Marino HS (San Marino, CA)",4
+1976,4,,87,15.0,Y,,Randy Thomas (minors),SS,,,,,,,,,,,,,4Yr,"University of Lynchburg (Lynchburg, VA)",4
+1975,4,,88,16.0,Y,,James Propst (minors),RHP,,,,,,,,,,,,,HS,"West HS (Columbus, OH)",4
+1974,4,,85,13.0,Y,,Kenneth Grassano (minors),RHP,,,,,,,,,,,,,HS,"Springfield Gardens HS (Springfield Gardens, NY)",4
+1973,4,,84,12.0,Y,,Clinton Myers (minors),3B,,,,,,,,,,,,,4Yr,"Arizona State University (Tempe, AZ)",4
+1972,4,,93,21.0,N,,Dave Bialas (minors),C,,,,,,,,,,,,,HS,"Bellaire HS (Bellaire, TX)",4
+1971,4,,81,9.0,Y,,Jerry Mumphrey (minors),SS,22.3,1585.0,4993.0,70.0,0.289,0.745,,,,,,,HS,"Chapel Hill HS (Tyler, TX)",4
+1970,4,,84,12.0,Y,,Mark Covert (minors),RHP,,,,,,,,,,,,,HS,"Boulder HS (Boulder, CO)",4
+1969,4,,92,20.0,Y,,Bill Stein (minors),SS,5.4,959.0,2811.0,44.0,0.267,0.684,,,,,,,4Yr,"Southern Illinois University Carbondale (Carbondale, IL)",4
+1968,4,,79,19.0,Y,,Dick McVay (minors),RHP,,,,,,,,,,,,,HS,"Norway HS (Norway, IA)",4
+1967,4,,70,10.0,Y,,Ron McCollum (minors),C,,,,,,,,,,,,,HS,"Shaker HS (Latham, NY)",4
+1966,4,,67,7.0,N,,Bob Spence (minors),1B,-0.9,72.0,183.0,4.0,0.202,0.571,,,,,,,4Yr,"Santa Clara University (Santa Clara, CA)",4
+1965,4,,73,13.0,Y,,Harry Parker (minors),RHP,2.3,121.0,70.0,0.0,0.086,0.255,124.0,15.0,21.0,3.85,1.4,12.0,HS,"Collinsville HS (Collinsville, IL)",4
+2023,5,,158,21.0,Y,"$381,300",Zach Levenson (minors),OF,,,,,,,,,,,,,4Yr,"University of Miami (Coral Gables, FL)",5
+2022,5,,157,21.0,Y,"$350,400",Victor Scott (minors),OF,,,,,,,,,,,,,4Yr,"West Virginia University (Morgantown, WV)",5
+2021,5,,151,19.0,Y,"$300,000",Gordon Graceffo (minors),P,,,,,,,,,,,,,4Yr,"Villanova University (Villanova, PA)",5
+2020,5,,152,21.0,Y,"$100,000",L.J. Jones (minors),OF,,,,,,,,,,,,,4Yr,"California State University, Long Beach (Long Beach, CA)",5
+2019,5,,155,18.0,Y,"$340,000",Connor Thomas (minors),P,,,,,,,,,,,,,4Yr,"Georgia Institute of Technology (Atlanta, GA)",5
+2018,5,,153,19.0,Y,"$310,000",Nick Dunn (minors),2B,,,,,,,,,,,,,4Yr,"University of Maryland (College Park, MD)",5
+2017,5,,154,19.0,Y,"$317,100",Zach Kirtley (minors),2B,,,,,,,,,,,,,4Yr,"Saint Mary's College of California (Moraga, CA)",5
+2016,5,,166,30.0,Y,"$450,000",Walker Robbins (minors),OF,,,,,,,,,,,,,HS,"George County HS (Lucedale, MS)",5
+2015,5,,161,26.0,Y,"$225,000",Ryan Helsley (minors),RHP,4.1,73.0,3.0,0.0,0.333,0.667,174.0,21.0,10.0,2.83,1.09,35.0,4Yr,"Northeastern State University (Tahlequah, OK)",5
+2014,5,,165,30.0,Y,"$100,000",Darren Seferina (minors),2B,,,,,,,,,,,,,4Yr,"Miami Dade College, Kendall Campus (Miami, FL)",5
+2013,5,,155,19.0,Y,"$227,100",Ian McKinney (minors),LHP,,,,,,,,,,,,,HS,"William R. Boone HS (Orlando, FL)",5
+2012,5,,180,22.0,Y,"$220,300",Cory Jones (minors),RHP,,,,,,,,,,,,,JC,"College of the Canyons (Santa Clarita, CA)",5
+2011,5,,170,19.0,Y,"$175,000",Sam Gaviglio (minors),RHP,1.5,6.0,8.0,0.0,0.25,0.625,98.0,11.0,18.0,4.88,1.33,0.0,4Yr,"Oregon State University (Corvallis, OR)",5
+2010,5,,169,24.0,Y,"$144,000",Nick Longmire (minors),RF,,,,,,,,,,,,,4Yr,"University of the Pacific (Stockton, CA)",5
+2009,5,,159,18.0,Y,"$157,500",Ryan Jackson (minors),SS,-0.9,42.0,33.0,0.0,0.061,0.175,,,,,,,4Yr,"University of Miami (Coral Gables, FL)",5
+2008,5,,155,13.0,Y,"$181,000",Jermaine Curtis (minors),3B,0.0,5.0,3.0,0.0,0.0,0.4,,,,,,,4Yr,"University of California, Los Angeles (Los Angeles, CA)",5
+2007,5,,172,18.0,Y,"$134,000",Thomas Eager (minors),RHP,,,,,,,,,,,,,4Yr,"California Polytechnic State University, San Luis Obispo (San Luis Obispo, CA)",5
+2006,5,,166,30.0,Y,"$175,000",Shane Robinson (minors),OF,1.3,461.0,760.0,7.0,0.221,0.58,1.0,0.0,0.0,0.0,1.0,0.0,4Yr,"Florida State University (Tallahassee, FL)",5
+2005,5,,170,30.0,Y,"$150,000",Mitchell Boggs (minors),RHP,0.4,232.0,27.0,0.0,0.037,0.111,241.0,13.0,15.0,4.12,1.46,6.0,4Yr,"University of Georgia (Athens, GA)",5
+2004,5,,150,19.0,Y,"$150,000",Wes Swackhamer (minors),OF,,,,,,,,,,,,,4Yr,"Tulane University (New Orleans, LA)",5
+2003,5,,155,28.0,Y,"$175,000",Brandon Yarbrough (minors),C,,,,,,,,,,,,,HS,"Richmond County HS (Rockingham, NC)",5
+2002,5,,162,30.0,N,,Josh Bell (minors),C,,,,,,,,,,,,,HS,"North Side HS (Jackson, TN)",5
+2001,5,,164,28.0,Y,,Skip Schumaker (minors),OF,1.5,1149.0,3252.0,28.0,0.278,0.701,4.0,0.0,0.0,4.5,2.25,0.0,4Yr,"University of California, Santa Barbara (Santa Barbara, CA)",5
+2000,5,,143,13.0,Y,,Josh Axelson (minors),RHP,,,,,,,,,,,,,4Yr,"Michigan State University (East Lansing, MI)",5
+1999,5,,162,18.0,Y,,Charlie Williams (minors),OF,,,,,,,,,,,,,4Yr,"Rice University (Houston, TX)",5
+1998,5,,138,5.0,Y,,Steve Stemle (minors),RHP,-0.3,2.0,0.0,0.0,,,11.0,0.0,1.0,8.64,1.92,0.0,4Yr,"Western Kentucky University (Bowling Green, KY)",5
+1997,5,,164,20.0,Y,,Jason Navarro (minors),LHP,,,,,,,,,,,,,4Yr,"Tulane University (New Orleans, LA)",5
+1996,5,,128,3.0,N,,Jeff Rizzo (minors),3B,,,,,,,,,,,,,HS,"La Jolla HS (La Jolla, CA)",5
+1995,5,,127,12.0,N,,Cody McKay (minors),3B,-0.3,37.0,77.0,0.0,0.247,0.553,1.0,0.0,0.0,0.0,0.5,0.0,4Yr,"Arizona State University (Tempe, AZ)",5
+1994,5,,138,19.0,Y,,Curtis King (minors),RHP,0.8,62.0,6.0,0.0,0.0,0.0,68.0,6.0,2.0,3.43,1.5,2.0,4Yr,"Thomas Jefferson University (Philadelphia, PA)",5
+1993,5,,144,16.0,Y,,Marc Ottmers (minors),RHP,,,,,,,,,,,,,4Yr,"University of Texas Pan American (Edinburg, TX)",5
+1992,5,,139,15.0,Y,,Jeff Alkire (minors),LHP,,,,,,,,,,,,,4Yr,"University of Miami (Coral Gables, FL)",5
+1991,5,,129,4.0,Y,,DaRond Stovall (minors),OF,-0.3,62.0,78.0,2.0,0.205,0.595,,,,,,,HS,"Althoff Catholic HS (Belleville, IL)",5
+1990,5,,141,14.0,N,,Jim Lewis (minors),RHP,,,,,,,,,,,,,JC,"Florida State College at Jacksonville (Jacksonville, FL)",5
+1989,5,,120,7.0,Y,,Tony Ochs (minors),C,,,,,,,,,,,,,4Yr,"University of Memphis (Memphis, TN)",5
+1988,5,,132,23.0,Y,,Lee Plemel (minors),RHP,,,,,,,,,,,,,4Yr,"Stanford University (Palo Alto, CA)",5
+1987,5,,124,14.0,Y,,Rod Brewer (minors),1B,-0.5,172.0,288.0,2.0,0.278,0.687,1.0,0.0,0.0,45.0,5.0,0.0,4Yr,"University of Florida (Gainesville, FL)",5
+1986,5,,130,23.0,Y,,Bien Figueroa (minors),SS,-0.2,12.0,11.0,0.0,0.182,0.523,,,,,,,4Yr,"Florida State University (Tallahassee, FL)",5
+1985,5,,124,18.0,Y,,Steve Peters (minors),LHP,-1.2,56.0,5.0,0.0,0.0,0.0,56.0,3.0,3.0,5.25,1.7,1.0,4Yr,"University of Oklahoma (Norman, OK)",5
+1984,5,,113,7.0,Y,,Scott Arnold (minors),RHP,-0.1,6.0,0.0,0.0,,,6.0,0.0,0.0,5.4,1.95,0.0,4Yr,"Miami University of Ohio (Oxford, OH)",5
+1983,5,,130,24.0,Y,,Mike Robinson (minors),OF,,,,,,,,,,,,,4Yr,"University of Arkansas (Fayetteville, AR)",5
+1982,5,,127,21.0,N,,Mark Davis (minors),OF,-0.2,3.0,2.0,0.0,0.0,0.0,,,,,,,HS,"Herbert Hoover HS (San Diego, CA)",5
+1981,5,,111,8.0,Y,,Jeff Lauck (minors),OF,,,,,,,,,,,,,HS,"McLane HS (Fresno, CA)",5
+1980,5,,118,15.0,Y,,Brent Milligan (minors),LHP,,,,,,,,,,,,,HS,"West Perry HS (Elliotsburg, PA)",5
+1979,5,,110,6.0,N,,Mark Roberts (minors),LHP,,,,,,,,,,,,,HS,"Myers Park HS (Charlotte, NC)",5
+1978,5,,119,15.0,N,,Glenn Jones (minors),OF,,,,,,,,,,,,,HS,"Frankfort HS (Frankfort, KY)",5
+1977,5,,110,6.0,Y,,Andy Rincon (minors),RHP,2.0,20.0,35.0,0.0,0.2,0.472,20.0,8.0,5.0,3.12,1.14,0.0,HS,"St. Paul HS (Santa Fe Springs, CA)",5
+1976,5,,111,15.0,Y,,Paul Keck (minors),OF,,,,,,,,,,,,,HS,"San Mateo HS (San Mateo, CA)",5
+1975,5,,112,16.0,Y,,Steve Schartzer (minors),OF,,,,,,,,,,,,,4Yr,"Southern Illinois University Carbondale (Carbondale, IL)",5
+1974,5,,109,13.0,Y,,Joe Crockett (minors),OF,,,,,,,,,,,,,4Yr,"Southern Illinois University Carbondale (Carbondale, IL)",5
+1973,5,,108,12.0,Y,,Randy Wiles (minors),LHP,-0.2,0.0,0.0,0.0,,,5.0,1.0,1.0,10.13,3.0,0.0,4Yr,"Louisiana State University (Baton Rouge, LA)",5
+1972,5,,117,21.0,Y,,Rick Hetherington (minors),SS,,,,,,,,,,,,,HS,"Fresno HS (Fresno, CA)",5
+1971,5,,106,9.0,N,,Steven Copeland (minors),LHP,,,,,,,,,,,,,HS,"St. Patrick's HS (Vallejo, CA)",5
+1970,5,,109,12.0,Y,,Greg Terlecky (minors),RHP,0.1,20.0,3.0,0.0,0.333,0.667,20.0,0.0,1.0,4.45,1.65,0.0,HS,"Covina HS (Covina, CA)",5
+1969,5,,116,20.0,Y,,John Heenan (minors),OF,,,,,,,,,,,,,HS,"Abraham Lincoln HS (San Jose, CA)",5
+1968,5,,103,19.0,Y,,David Sagasar (minors),LHP,,,,,,,,,,,,,HS,"William Howard Taft Charter HS (Woodland Hills, CA)",5
+1967,5,,90,10.0,N,,Matt Sterling (minors),RHP,,,,,,,,,,,,,HS,"Thomas Jefferson HS (Denver, CO)",5
+1966,5,,87,7.0,Y,,Don Cooksey (minors),RHP,,,,,,,,,,,,,HS,"O'Fallon Tech (St. Louis, MO)",5
+1965,5,,93,13.0,Y,,Jerry Pruett (minors),OF,,,,,,,,,,,,,HS,"Lehman HS (Canton, OH)",5
+2023,6,,185,21.0,Y,"$302,300",Jason Savacool (minors),P,,,,,,,,,,,,,4Yr,"University of Maryland (College Park, MD)",6
+2022,6,,187,21.0,Y,"$600,000",Max Rajcic (minors),P,,,,,,,,,,,,,4Yr,"University of California, Los Angeles (Los Angeles, CA)",6
+2021,6,,181,19.0,Y,"$50,000",Alfredo Ruiz (minors),P,,,,,,,,,,,,,4Yr,"California State University, Long Beach (Long Beach, CA)",6
+2019,6,,185,18.0,Y,"$250,000",Pedro Pag�s (minors),C,,,,,,,,,,,,,4Yr,"Florida Atlantic University (Boca Raton, FL)",6
+2018,6,,183,19.0,Y,"$255,900",Edgar Gonzalez (minors),RHP,,,,,,,,,,,,,4Yr,"California State University, Fresno (Fresno, CA)",6
+2017,6,,184,19.0,Y,"$400,000",Zach Jackson (minors),C,,,,,,,,,,,,,HS,"Winter Haven HS (Winter Haven, FL)",6
+2016,6,,196,30.0,Y,"$236,400",Tommy Edman (minors),SS,17.1,596.0,2227.0,53.0,0.265,0.726,,,,,,,4Yr,"Stanford University (Palo Alto, CA)",6
+2015,6,,191,26.0,Y,"$150,000",Jacob Evans (minors),LHP,,,,,,,,,,,,,4Yr,"University of Oklahoma (Norman, OK)",6
+2014,6,,195,30.0,Y,,Andrew Sohn (minors),SS,,,,,,,,,,,,,4Yr,"Western Michigan University (Kalamazoo, MI)",6
+2013,6,,185,19.0,Y,"$40,000",Jimmy Reed (minors),LHP,,,,,,,,,,,,,4Yr,"University of Maryland (College Park, MD)",6
+2012,6,,210,22.0,Y,"$165,100",Kurt Heyer (minors),RHP,,,,,,,,,,,,,4Yr,"University of Arizona (Tucson, AZ)",6
+2011,6,,200,19.0,Y,"$150,000",Adam Ehrlich (minors),C,,,,,,,,,,,,,HS,"Campbell Hall School (Studio City, CA)",6
+2010,6,,199,24.0,Y,"$140,000",John Gast (minors),LHP,0.0,3.0,5.0,0.0,0.0,0.167,3.0,2.0,0.0,5.11,1.3,0.0,4Yr,"Florida State University (Tallahassee, FL)",6
+2009,6,,189,18.0,Y,"$150,000",Virgil Hill (minors),CF,,,,,,,,,,,,,JC,"Los Angeles Mission College (Sylmar, CA)",6
+2008,6,,185,13.0,Y,"$150,000",Eric Fornataro (minors),RHP,-0.1,8.0,0.0,0.0,,,8.0,0.0,0.0,4.66,1.24,0.0,4Yr,"Miami Dade College, Kendall Campus (Miami, FL)",6
+2007,6,,202,18.0,Y,"$115,000",Oliver Marmol (minors),SS,,,,,,,,,,,,,4Yr,"College of Charleston (Charleston, SC)",6
+2006,6,,196,30.0,Y,"$45,000",Tyler Norrick (minors),LHP,,,,,,,,,,,,,4Yr,"Southern Illinois University Carbondale (Carbondale, IL)",6
+2005,6,,200,30.0,Y,"$120,000",Wilfrido Pujols (minors),OF,,,,,,,,,,,,,HS,"Fort Osage HS (Independence, MO)",6
+2004,6,,180,19.0,Y,"$110,000",Jarrett Hoffpauir (minors),2B,0.4,21.0,46.0,0.0,0.217,0.59,,,,,,,4Yr,"University of Southern Mississippi (Hattiesburg, MS)",6
+2003,6,,185,28.0,Y,"$128,000",Matt Weagle (minors),RHP,,,,,,,,,,,,,4Yr,"Franklin Pierce University (Rindge, NH)",6
+2002,6,,192,30.0,Y,,Cody Haerther (minors),3B,,,,,,,,,,,,,HS,"Chaminade College Preparatory School (West Hills, CA)",6
+2001,6,,194,28.0,Y,,John Killalea (minors),LHP,,,,,,,,,,,,,HS,"Seminole HS (Seminole, FL)",6
+2000,6,,173,13.0,Y,,Justin Woodrow (minors),OF,,,,,,,,,,,,,HS,"Knoch HS (Saxonburg, PA)",6
+1999,6,,192,18.0,Y,,Josh Teekel (minors),RHP,,,,,,,,,,,,,HS,"Belaire HS (Baton Rouge, LA)",6
+1998,6,,168,5.0,Y,,Kris Rayborn (minors),LHP,,,,,,,,,,,,,HS,"Purvis HS (Purvis, MS)",6
+1997,6,,194,20.0,Y,,Bryan Rupert (minors),C,,,,,,,,,,,,,4Yr,"Limestone College (Gaffney, SC)",6
+1996,6,,158,3.0,Y,,Jim Gargiulo (minors),C,,,,,,,,,,,,,4Yr,"University of Miami (Coral Gables, FL)",6
+1995,6,,155,12.0,Y,,Joe Freitas (minors),OF,,,,,,,,,,,,,4Yr,"California State University, Fresno (Fresno, CA)",6
+1994,6,,166,19.0,Y,,Blake Stein (minors),RHP,2.7,6.0,9.0,0.0,0.0,0.0,117.0,21.0,28.0,5.41,1.54,2.0,4Yr,"Spring Hill College (Mobile, AL)",6
+1993,6,,172,16.0,Y,,Dave Carroll (minors),LHP,,,,,,,,,,,,,JC,"State College of Florida, Manatee-Sarasota (Bradenton, FL)",6
+1992,6,,167,15.0,Y,,Keith Johns (minors),SS,0.0,2.0,0.0,0.0,,,,,,,,,4Yr,"University of Mississippi (Oxford, MS)",6
+1991,6,,155,4.0,Y,,John Mabry (minors),OF,-2.3,1321.0,3409.0,96.0,0.263,0.727,2.0,0.0,0.0,63.0,10.0,0.0,4Yr,"West Chester University of Pennsylvania (West Chester, PA)",6
+1990,6,,168,14.0,Y,,George Sells (minors),LHP,,,,,,,,,,,,,4Yr,"Old Dominion University (Norfolk, VA)",6
+1989,6,,146,6.0,N,,Todd Steverson (minors),OF,-0.3,31.0,43.0,2.0,0.256,0.729,,,,,,,HS,"Culver City HS (Culver City, CA)",6
+1988,6,,158,23.0,Y,,Rheal Cormier (minors),LHP,9.5,498.0,192.0,0.0,0.188,0.431,683.0,71.0,64.0,4.03,1.28,2.0,JC,"Community College of Rhode Island (Warwick, RI)",6
+1987,6,,150,14.0,Y,,Antron Grier (minors),OF,,,,,,,,,,,,,4Yr,"Faulkner University (Montgomery, AL)",6
+1986,6,,156,23.0,N,,Mike Couture (minors),C,,,,,,,,,,,,,HS,"Eastern Wayne HS (Goldsboro, NC)",6
+1985,6,,150,18.0,Y,,Ray Stephens (minors),C,-0.5,19.0,35.0,1.0,0.171,0.48,,,,,,,4Yr,"Troy University (Troy, AL)",6
+1984,6,,139,7.0,Y,,Lance Johnson (minors),OF,30.2,1447.0,5379.0,34.0,0.291,0.72,,,,,,,4Yr,"University of South Alabama (Mobile, AL)",6
+1983,6,,156,24.0,Y,,Mark Dougherty (minors),2B,,,,,,,,,,,,,4Yr,"Florida Southern College (Lakeland, FL)",6
+1982,6,,153,21.0,Y,,Brian Farley (minors),RHP,,,,,,,,,,,,,4Yr,"Vanderbilt University (Nashville, TN)",6
+1981,6,,137,8.0,N,,Reggie Williams (minors),OF,-0.8,200.0,379.0,5.0,0.259,0.662,,,,,,,4Yr,"Southern University and A&M College (Baton Rouge, LA)",6
+1980,6,,144,15.0,Y,,Russ Davis (minors),RHP,,,,,,,,,,,,,4Yr,"University of Mississippi (Oxford, MS)",6
+1979,6,,136,6.0,Y,,Robert Brooks (minors),RHP,,,,,,,,,,,,,,,6
+1978,6,,145,15.0,Y,,Timothy Mueller (minors),C,,,,,,,,,,,,,HS,"Arroyo HS (San Lorenzo, CA)",6
+1977,6,,136,6.0,Y,,Jeff Doyle (minors),SS,-0.3,13.0,37.0,0.0,0.297,0.748,,,,,,,4Yr,"Oregon State University (Corvallis, OR)",6
+1976,6,,135,15.0,N,,Larry Kuhn (minors),RHP,,,,,,,,,,,,,HS,"North Torrance HS (Torrance, CA)",6
+1975,6,,136,16.0,N,,Dale Eiler (minors),C,,,,,,,,,,,,,HS,"Clairemont HS (San Diego, CA)",6
+1974,6,,133,13.0,N,,David Perez (minors),SS,,,,,,,,,,,,,HS,"Hillsdale HS (San Mateo, CA)",6
+1973,6,,132,12.0,Y,,John Tamargo (minors),C,-0.3,135.0,244.0,4.0,0.242,0.675,,,,,,,4Yr,"Georgia Southern University (Statesboro, GA)",6
+1972,6,,141,21.0,Y,,Tommy Washington (minors),SS,,,,,,,,,,,,,HS,"Snyder HS (Snyder, TX)",6
+1971,6,,131,9.0,Y,,Chuck Blakley (minors),C,,,,,,,,,,,,,4Yr,"Northwest Missouri State University (Maryville, MO)",6
+1970,6,,134,12.0,Y,,Rob Sievers (minors),3B,,,,,,,,,,,,,HS,"Hazelwood HS (Florissant, MO)",6
+1969,6,,140,20.0,Y,,Greg Millikan (minors),LHP,,,,,,,,,,,,,4Yr,"Occidental College (Los Angeles, CA)",6
+1968,6,,127,19.0,Y,,Jackie Stripling (minors),RHP,,,,,,,,,,,,,HS,"Holdenville HS (Holdenville, OK)",6
+1967,6,,110,10.0,N,,Paul Womble (minors),SS,,,,,,,,,,,,,HS,"Wyandotte HS (Kansas City, KS)",6
+1966,6,,107,7.0,N,,Ed Bauer (minors),LHP,,,,,,,,,,,,,HS,"Christopher Columbus HS (Bronx, NY)",6
+1965,6,,113,13.0,N,,Frank Portera (minors),C,,,,,,,,,,,,,4Yr,"Mississippi State University (Mississippi State, MS)",6
+2023,7,,215,21.0,Y,"$236,700",Charles Harrison (minors),P,,,,,,,,,,,,,4Yr,"University of California, Los Angeles (Los Angeles, CA)",7
+2022,7,,217,21.0,Y,"$212,000",Alex Iadisernia (minors),OF,,,,,,,,,,,,,4Yr,"Elon University (Elon, NC)",7
+2021,7,,211,19.0,Y,"$1,000,000",Alec Willis (minors),P,,,,,,,,,,,,,HS,"Regis Jesuit HS (Aurora, CO)",7
+2019,7,,215,18.0,Y,"$204,800",Jack Ralston (minors),P,,,,,,,,,,,,,4Yr,"University of California, Los Angeles (Los Angeles, CA)",7
+2018,7,,213,19.0,Y,"$200,300",Brendan Donovan (minors),OF,6.1,221.0,718.0,16.0,0.283,0.779,,,,,,,4Yr,"University of South Alabama (Mobile, AL)",7
+2017,7,,214,19.0,Y,"$300,000",Chase Pinder (minors),CF,,,,,,,,,,,,,4Yr,"Clemson University (Clemson, SC)",7
+2016,7,,226,30.0,Y,"$185,300",Andrew Knizner (minors),C,1.5,255.0,714.0,17.0,0.216,0.621,1.0,0.0,0.0,0.0,1.5,0.0,4Yr,"North Carolina State University (Raleigh, NC)",7
+2015,7,,221,26.0,Y,"$10,000",Jesse Jenner (minors),C,,,,,,,,,,,,,4Yr,"University of San Diego (San Diego, CA)",7
+2014,7,,225,30.0,Y,"$150,000",Brian O'Keefe (minors),C,-0.2,10.0,22.0,0.0,0.136,0.467,,,,,,,4Yr,"St. Joseph's University (Philadelphia, PA)",7
+2013,7,,215,19.0,Y,"$150,000",Chris Rivera (minors),SS,,,,,,,,,,,,,HS,"El Dorado HS (Placentia, CA)",7
+2012,7,,240,22.0,Y,"$65,000",Kyle Barraclough (minors),RHP,1.7,256.0,2.0,0.0,0.0,0.0,291.0,19.0,16.0,3.86,1.4,11.0,4Yr,"Saint Mary's College of California (Moraga, CA)",7
+2011,7,,230,19.0,Y,"$125,000",Nick Martini (minors),CF,1.4,141.0,354.0,8.0,0.268,0.774,1.0,0.0,0.0,0.0,2.0,0.0,4Yr,"Kansas State University (Manhattan, KS)",7
+2010,7,,229,24.0,Y,"$75,000",Greg Garcia (minors),SS,3.1,578.0,1096.0,14.0,0.245,0.693,1.0,0.0,0.0,0.0,1.0,0.0,4Yr,"University of Hawaii at Manoa (Honolulu, HI)",7
+2009,7,,219,18.0,Y,"$100,000",Kyle Conley (minors),RF,,,,,,,,,,,,,4Yr,"University of Washington (Seattle, WA)",7
+2008,7,,215,13.0,Y,"$150,000",Anthony Ferrara (minors),LHP,,,,,,,,,,,,,HS,"Riverview HS (Riverview, FL)",7
+2007,7,,232,18.0,Y,"$100,000",Deryk Hooker (minors),RHP,,,,,,,,,,,,,HS,"Mira Mesa HS (San Diego, CA)",7
+2006,7,,226,30.0,Y,"$60,000",Luke Gorsett (minors),OF,,,,,,,,,,,,,4Yr,"University of Nebraska-Lincoln (Lincoln, NE)",7
+2005,7,,230,30.0,Y,"$15,000",Nick Stavinoha (minors),OF,-1.3,147.0,265.0,4.0,0.234,0.581,,,,,,,4Yr,"Louisiana State University (Baton Rouge, LA)",7
+2004,7,,210,19.0,N,,Buck Cody (minors),LHP,,,,,,,,,,,,,4Yr,"University of Texas at Austin (Austin, TX)",7
+2003,7,,215,28.0,Y,"$100,000",Brendan Ryan (minors),SS,15.1,896.0,2591.0,19.0,0.233,0.607,1.0,0.0,0.0,0.0,1.0,0.0,4Yr,"Lewis-Clark State College (Lewiston, ID)",7
+2002,7,,222,30.0,Y,,Willie Williamson (minors),LHP,,,,,,,,,,,,,4Yr,"University of Massachusetts Lowell (Lowell, MA)",7
+2001,7,,224,28.0,Y,,Tyler Adamczyk (minors),RHP,,,,,,,,,,,,,HS,"Westlake HS (Westlake Village, CA)",7
+2000,7,,203,13.0,Y,,Shaun Stokes (minors),RHP,,,,,,,,,,,,,4Yr,"William Paterson University (Wayne, NJ)",7
+1999,7,,222,18.0,Y,,Coco Crisp (minors),2B,28.9,1586.0,5930.0,130.0,0.265,0.729,,,,,,,JC,"Los Angeles Pierce College (Woodland Hills, CA)",7
+1998,7,,198,5.0,Y,,Brad Freeman (minors),SS,,,,,,,,,,,,,4Yr,"Mississippi State University (Mississippi State, MS)",7
+1997,7,,224,20.0,Y,,Joe Secoda (minors),2B,,,,,,,,,,,,,JC,"Rancho Santiago College (Santa Ana, CA)",7
+1996,7,,188,3.0,Y,,Kevin Sheredy (minors),RHP,,,,,,,,,,,,,4Yr,"University of California, Los Angeles (Los Angeles, CA)",7
+1995,7,,183,12.0,Y,,Matt King (minors),RHP,,,,,,,,,,,,,JC,"Galveston College (Galveston, TX)",7
+1994,7,,194,19.0,Y,,Rich Mear (minors),LHP,,,,,,,,,,,,,HS,"Rowland HS (Rowland Heights, CA)",7
+1993,7,,200,16.0,Y,,Jeff Berblinger (minors),2B,-0.2,7.0,5.0,0.0,0.0,0.0,,,,,,,4Yr,"University of Kansas (Lawrence, KS)",7
+1992,7,,195,15.0,N,,Mike Corominas (minors),LHP,,,,,,,,,,,,,HS,"Diamond Bar HS (Diamond Bar, CA)",7
+1991,7,,181,4.0,Y,,Doug Creek (minors),LHP,-1.1,87.0,5.0,0.0,0.2,0.4,279.0,7.0,14.0,5.32,1.6,1.0,4Yr,"Georgia Institute of Technology (Atlanta, GA)",7
+1990,7,,195,14.0,Y,,Scott Baker (minors),LHP,-0.1,0.0,0.0,0.0,,,1.0,0.0,0.0,9.82,2.73,0.0,JC,"Taft College (Taft, CA)",7
+1989,7,,172,6.0,Y,,Tracey Ealy (minors),OF,,,,,,,,,,,,,HS,"Chaparral HS (Las Vegas, NV)",7
+1988,7,,184,23.0,Y,,Steve Fanning (minors),SS,,,,,,,,,,,,,4Yr,"Troy University (Troy, AL)",7
+1987,7,,176,14.0,Y,,Dean Weese (minors),RHP,,,,,,,,,,,,,4Yr,"Alliant International University (San Diego, CA)",7
+1986,7,,182,23.0,Y,,Vince Kindred (minors),OF,,,,,,,,,,,,,4Yr,"Troy University (Troy, AL)",7
+1985,7,,176,18.0,N,,Doug Little (minors),RHP,,,,,,,,,,,,,4Yr,"Florida State University (Tallahassee, FL)",7
+1984,7,,165,7.0,Y,,Dave Crossley (minors),LHP,,,,,,,,,,,,,4Yr,"Eckerd College (St. Petersburg, FL)",7
+1983,7,,182,24.0,Y,,Ted Milner (minors),OF,,,,,,,,,,,,,4Yr,"Biola University (La Mirada, CA)",7
+1982,7,,179,21.0,Y,,Terry Pendleton (minors),OF,28.4,1893.0,7032.0,140.0,0.27,0.707,,,,,,,4Yr,"California State University, Fresno (Fresno, CA)",7
+1981,7,,163,8.0,Y,,Jeff Keener (minors),RHP,0.1,23.0,0.0,0.0,,,23.0,1.0,1.0,2.7,1.69,0.0,4Yr,"University of Kentucky (Lexington, KY)",7
+1980,7,,170,15.0,Y,,Jim Adduci (minors),OF,-0.6,70.0,144.0,1.0,0.236,0.568,,,,,,,4Yr,"Southern Illinois University Carbondale (Carbondale, IL)",7
+1979,7,,162,6.0,Y,,Billy Fink (minors),OF,,,,,,,,,,,,,HS,"Greenfield HS (Greenfield, IN)",7
+1978,7,,171,15.0,Y,,Dennis Gadowski (minors),RHP,,,,,,,,,,,,,HS,"Central Catholic HS (Cleveland, OH)",7
+1977,7,,162,6.0,Y,,Donald Moore (minors),RHP,,,,,,,,,,,,,HS,"El Camino Real HS (Woodland Hills, CA)",7
+1976,7,,159,15.0,N,,Bryan Hardy (minors),LHP,,,,,,,,,,,,,HS,"Bingham HS (South Jordan, UT)",7
+1975,7,,160,16.0,Y,,Ralph Costanzo (minors),3B,,,,,,,,,,,,,HS,"Capuchino HS (San Bruno, CA)",7
+1974,7,,157,13.0,N,,Jack Lawson (minors),RHP,,,,,,,,,,,,,HS,"Scottsdale HS (Scottsdale, AZ)",7
+1973,7,,156,12.0,N,,Richard Hand (minors),C,,,,,,,,,,,,,HS,"Union HS (Union, NJ)",7
+1972,7,,165,21.0,Y,,Roy Scott (minors),LHP,,,,,,,,,,,,,HS,"Hardaway HS (Columbus, GA)",7
+1971,7,,156,9.0,Y,,Gary Trumbauer (minors),LHP,,,,,,,,,,,,,HS,"Thousand Oaks HS (Thousand Oaks, CA)",7
+1970,7,,159,12.0,Y,,Don Durham (minors),RHP,-0.9,15.0,14.0,2.0,0.5,1.429,25.0,2.0,11.0,5.83,1.55,1.0,4Yr,"Western Kentucky University (Bowling Green, KY)",7
+1969,7,,164,20.0,Y,,Stanley Templeton (minors),OF,,,,,,,,,,,,,HS,"Weatherford HS (Weatherford, OK)",7
+1968,7,,151,19.0,Y,,Tom Heintzelman (minors),2B,0.7,90.0,140.0,3.0,0.243,0.655,,,,,,,4Yr,"Parsons College (Fairfield, IA)",7
+1967,7,,130,10.0,Y,,John Polovina (minors),RHP,,,,,,,,,,,,,HS,"St. Francis HS (Mountain View, CA)",7
+1966,7,,127,7.0,Y,,Jerry Bartee (minors),SS,,,,,,,,,,,,,HS,"Central HS (Omaha, NE)",7
+1965,7,,133,13.0,N,,Dave Renkiewicz (minors),OF,,,,,,,,,,,,,HS,"Mount Carmel HS (Wyandotte, MI)",7
+2023,8,,245,21.0,Y,"$230,000",Ixan Henderson (minors),P,,,,,,,,,,,,,4Yr,"California State University, Fresno (Fresno, CA)",8
+2022,8,,247,21.0,Y,"$174,600",Cade Winquest (minors),P,,,,,,,,,,,,,4Yr,"University of Texas at Arlington (Arlington, TX)",8
+2021,8,,241,19.0,Y,"$20,000",Mike Antico (minors),OF,,,,,,,,,,,,,4Yr,"University of Texas at Austin (Austin, TX)",8
+2019,8,,245,18.0,Y,"$167,800",Logan Gragg (minors),P,,,,,,,,,,,,,4Yr,"Oklahoma State University (Stillwater, OK)",8
+2018,8,,243,19.0,Y,"$150,000",Lars Nootbaar (minors),LF,6.1,283.0,825.0,33.0,0.246,0.78,,,,,,,4Yr,"University of Southern California (Los Angeles, CA)",8
+2017,8,,244,19.0,Y,"$350,000",Wilberto Rivera (minors),RHP,,,,,,,,,,,,,HS,"Carlos Beltran Baseball Academy (Florida, Puerto Rico)",8
+2016,8,,256,30.0,Y,"$100,000",Sam Tewes (minors),RHP,,,,,,,,,,,,,4Yr,"Wichita State University (Wichita, KS)",8
+2015,8,,251,26.0,Y,"$500,000",Ian Oxnevad (minors),LHP,,,,,,,,,,,,,HS,"Shorewood HS (Shoreline, WA)",8
+2014,8,,255,30.0,Y,"$67,500",Nick Thompson (minors),RF,,,,,,,,,,,,,4Yr,"College of William and Mary (Williamsburg, VA)",8
+2013,8,,245,19.0,Y,"$10,000",Andrew Pierce (minors),RHP,,,,,,,,,,,,,4Yr,"University of Southern Mississippi (Hattiesburg, MS)",8
+2012,8,,270,22.0,Y,"$50,000",Yoenny Gonzalez (minors),OF,,,,,,,,,,,,,JC,"College of Central Florida (Ocala, FL)",8
+2011,8,,260,19.0,Y,"$125,000",Danny Miranda (minors),LHP,,,,,,,,,,,,,4Yr,"University of Miami (Coral Gables, FL)",8
+2010,8,,259,24.0,Y,"$45,000",Daniel Bibona (minors),LHP,,,,,,,,,,,,,4Yr,"University of California, Irvine (Irvine, CA)",8
+2009,8,,249,18.0,Y,"$100,000",Jason Stidham (minors),SS,,,,,,,,,,,,,4Yr,"Florida State University (Tallahassee, FL)",8
+2008,8,,245,13.0,Y,"$58,000",Ryan Kulik (minors),LHP,,,,,,,,,,,,,4Yr,"Rowan University (Glassboro, NJ)",8
+2007,8,,262,18.0,Y,"$150,000",Tyler Henley (minors),OF,,,,,,,,,,,,,4Yr,"Rice University (Houston, TX)",8
+2006,8,,256,30.0,Y,"$15,000",Allen Craig (minors),SS,5.7,534.0,1831.0,59.0,0.276,0.768,,,,,,,4Yr,"University of California, Berkeley (Berkeley, CA)",8
+2005,8,,260,30.0,Y,"$15,000",Jason Cairns (minors),RHP,,,,,,,,,,,,,4Yr,"Central Michigan University (Mount Pleasant, MI)",8
+2004,8,,240,19.0,Y,"$65,000",Matt Shepherd (minors),SS,,,,,,,,,,,,,4Yr,"University of Southern Mississippi (Hattiesburg, MS)",8
+2003,8,,245,28.0,Y,"$105,000",Matt Pagnozzi (minors),C,0.1,43.0,92.0,1.0,0.272,0.649,,,,,,,JC,"Central Arizona College (Coolidge, AZ)",8
+2002,8,,252,30.0,Y,,Tyler Parker (minors),C,,,,,,,,,,,,,4Yr,"Georgia Institute of Technology (Atlanta, GA)",8
+2001,8,,254,28.0,Y,,John Nelson (minors),SS,-0.2,8.0,5.0,0.0,0.0,0.0,,,,,,,4Yr,"University of Kansas (Lawrence, KS)",8
+2000,8,,233,13.0,Y,,Dan Moylan (minors),C,,,,,,,,,,,,,4Yr,"University of North Carolina at Chapel Hill (Chapel Hill, NC)",8
+1999,8,,252,18.0,Y,,Shawn Schumacher (minors),C,,,,,,,,,,,,,4Yr,"Texas A&M University (College Station, TX)",8
+1998,8,,228,5.0,Y,,Greg Clark (minors),C,,,,,,,,,,,,,4Yr,"University of Arizona (Tucson, AZ)",8
+1997,8,,254,20.0,Y,,Jason Karnuth (minors),RHP,0.1,4.0,0.0,0.0,,,7.0,0.0,0.0,2.7,1.8,0.0,4Yr,"Illinois State University (Normal, IL)",8
+1996,8,,218,3.0,Y,,Dave Schmidt (minors),C,,,,,,,,,,,,,4Yr,"Oregon State University (Corvallis, OR)",8
+1995,8,,211,12.0,Y,,Jon Ward (minors),RHP,,,,,,,,,,,,,4Yr,"California State University, Fullerton (Fullerton, CA)",8
+1994,8,,222,19.0,Y,,Kevin Foderaro (minors),RHP,,,,,,,,,,,,,4Yr,"Brigham Young University (Provo, UT)",8
+1993,8,,228,16.0,Y,,Rantie Harper (minors),OF,,,,,,,,,,,,,HS,"Point Loma HS (San Diego, CA)",8
+1992,8,,223,15.0,Y,,Brian Carpenter (minors),RHP,,,,,,,,,,,,,4Yr,"Baylor University (Waco, TX)",8
+1991,8,,207,4.0,Y,,Rabbit Henry (minors),OF,,,,,,,,,,,,,HS,"Clairemont HS (San Diego, CA)",8
+1990,8,,222,14.0,Y,,Mark MacArthur (minors),SS,,,,,,,,,,,,,4Yr,"The Master's University (Santa Clarita, CA)",8
+1989,8,,198,6.0,Y,,Anthony Lewis (minors),OF,,,,,,,,,,,,,HS,"Rancho HS (North Las Vegas, NV)",8
+1988,8,,210,23.0,Y,,Jerry Davis (minors),SS,,,,,,,,,,,,,HS,"Abraham Lincoln HS (San Diego, CA)",8
+1987,8,,202,14.0,Y,,Tim Redman (minors),C,,,,,,,,,,,,,4Yr,"Georgetown College (Georgetown, KY)",8
+1986,8,,208,23.0,Y,,Bob Glisson (minors),LHP,,,,,,,,,,,,,4Yr,"Chapman University (Orange, CA)",8
+1985,8,,202,18.0,Y,,Mark Jackson (minors),OF,,,,,,,,,,,,,4Yr,"University of Arkansas (Fayetteville, AR)",8
+1984,8,,191,7.0,N,,Philip Goguen (minors),RHP,,,,,,,,,,,,,HS,"Southwest HS (San Diego, CA)",8
+1983,8,,208,24.0,Y,,Tom Pagnozzi (minors),C,7.7,927.0,2896.0,44.0,0.253,0.658,,,,,,,4Yr,"University of Arkansas (Fayetteville, AR)",8
+1982,8,,205,21.0,Y,,Gary Gill (minors),1B,,,,,,,,,,,,,4Yr,"Slippery Rock University of Pennsylvania (Slippery Rock, PA)",8
+1981,8,,189,8.0,Y,,William Finnegan (minors),RHP,,,,,,,,,,,,,4Yr,"University of Nevada, Las Vegas (Paradise, NV)",8
+1980,8,,196,15.0,Y,,Jay North (minors),RHP,,,,,,,,,,,,,HS,"Ygnacio Valley HS (Concord, CA)",8
+1979,8,,188,6.0,Y,,Earl Weaver (minors),RHP,,,,,,,,,,,,,4Yr,"Kutztown University of Pennsylvania (Kutztown, PA)",8
+1978,8,,197,15.0,N,,Richard Budweg (minors),LHP,,,,,,,,,,,,,4Yr,"Bloomsburg University of Pennsylvania (Bloomsburg, PA)",8
+1977,8,,188,6.0,Y,,LeRoy Grossini (minors),SS,,,,,,,,,,,,,JC,"Santa Barbara City College (Santa Barbara, CA)",8
+1976,8,,183,15.0,Y,,Denny Martindale (minors),2B,,,,,,,,,,,,,4Yr,"California Polytechnic State University, San Luis Obispo (San Luis Obispo, CA)",8
+1975,8,,184,16.0,Y,,Richard Montejano (minors),RHP,,,,,,,,,,,,,HS,"Imperial HS (Imperial, CA)",8
+1974,8,,181,13.0,Y,,Bill Caudill (minors),RHP,11.0,137.0,41.0,0.0,0.122,0.309,445.0,35.0,52.0,3.68,1.31,106.0,HS,"Aviation HS (Redondo Beach, CA)",8
+1973,8,,180,12.0,N,,James Bradford (minors),LHP,,,,,,,,,,,,,HS,"Pine Bluff HS (Pine Bluff, AR)",8
+1972,8,,189,21.0,Y,,Fred McGaha (minors),OF,,,,,,,,,,,,,4Yr,"Louisiana Tech University (Ruston, LA)",8
+1971,8,,181,9.0,N,,Steven Greene (minors),2B,,,,,,,,,,,,,HS,"Fremont HS (Los Angeles, CA)",8
+1970,8,,184,12.0,N,,Bob Allietta (minors),C,-0.2,21.0,45.0,1.0,0.178,0.462,,,,,,,HS,"Lawrence HS (Falmouth, MA)",8
+1969,8,,188,20.0,Y,,Russ Caldarella (minors),OF,,,,,,,,,,,,,HS,"Millikan HS (Long Beach, CA)",8
+1968,8,,175,19.0,Y,,Ted Hemenway (minors),RHP,,,,,,,,,,,,,HS,"Mehlville Senior HS (St. Louis, MO)",8
+1967,8,,150,10.0,Y,,Larry Koch (minors),RHP,,,,,,,,,,,,,JC,"Nassau Community College (Garden City, NY)",8
+1966,8,,147,7.0,Y,,Charlie Stewart (minors),OF,,,,,,,,,,,,,4Yr,"Oklahoma Baptist University (Shawnee, OK)",8
+1965,8,,164,,Y,,Mike Hensley (minors),3B,,,,,,,,,,,,,HS,"Del City HS (Del City, OK)",8
+2023,9,,275,21.0,Y,"$200,000",Christian Worley (minors),P,,,,,,,,,,,,,4Yr,"Virginia Polytechnic Institute and State University (Blacksburg, VA)",9
+2022,9,,277,21.0,Y,"$125,000",Joseph King (minors),P,,,,,,,,,,,,,4Yr,"University of California, Berkeley (Berkeley, CA)",9
+2021,9,,271,19.0,Y,"$75,000",Trent Baker (minors),P,,,,,,,,,,,,,4Yr,"Angelo State University (San Angelo, TX)",9
+2019,9,,275,18.0,Y,"$152,000",Todd Lott (minors),OF,,,,,,,,,,,,,4Yr,"University of Louisiana at Lafayette (Lafayette, LA)",9
+2018,9,,273,19.0,Y,"$5,000",Matt Duce (minors),C,,,,,,,,,,,,,4Yr,"Dallas Baptist University (Dallas, TX)",9
+2017,9,,274,19.0,Y,"$3,000",Evan Kruczynski (minors),LHP,,,,,,,,,,,,,4Yr,"East Carolina University (Greenville, NC)",9
+2016,9,,286,30.0,Y,"$100,000",Matt Fiedler (minors),OF,,,,,,,,,,,,,4Yr,"University of Minnesota (Minneapolis, MN)",9
+2015,9,,281,26.0,Y,"$5,000",Andrew Brodbeck (minors),2B,,,,,,,,,,,,,4Yr,"Flagler College (St. Augustine, FL)",9
+2014,9,,285,30.0,Y,"$5,000",Daniel Ponce de Leon (minors),RHP,0.4,44.0,23.0,0.0,0.044,0.214,57.0,3.0,8.0,4.33,1.33,3.0,4Yr,"Embry-Riddle Aeronautical University (Daytona Beach, FL)",9
+2013,9,,275,19.0,Y,"$40,000",Nick Petree (minors),RHP,,,,,,,,,,,,,4Yr,"Missouri State University (Springfield, MO)",9
+2012,9,,300,22.0,Y,"$75,000",Rowan Wick (minors),C,0.6,62.0,0.0,0.0,,,146.0,6.0,10.0,3.82,1.47,20.0,JC,"Cypress College (Cypress, CA)",9
+2011,9,,290,19.0,Y,"$100,000",Tyler Mills (minors),RHP,,,,,,,,,,,,,4Yr,"University of Michigan (Ann Arbor, MI)",9
+2010,9,,289,24.0,Y,"$40,000",Tyler Lyons (minors),LHP,0.5,145.0,41.0,0.0,0.122,0.339,162.0,13.0,12.0,4.3,1.22,3.0,4Yr,"Oklahoma State University (Stillwater, OK)",9
+2009,9,,279,18.0,Y,"$100,000",Nick McCully (minors),RHP,,,,,,,,,,,,,4Yr,"Coastal Carolina University (Conway, SC)",9
+2008,9,,275,13.0,Y,"$150,000",Aaron Luna (minors),OF,,,,,,,,,,,,,4Yr,"Rice University (Houston, TX)",9
+2007,9,,292,18.0,N,,Michael Stutes (minors),RHP,0.4,75.0,1.0,0.0,0.0,0.0,79.0,9.0,3.0,4.01,1.29,0.0,4Yr,"Oregon State University (Corvallis, OR)",9
+2006,9,,286,30.0,Y,"$150,000",Matt North (minors),RHP,,,,,,,,,,,,,HS,"Deer Valley HS (Antioch, CA)",9
+2005,9,,290,30.0,Y,"$50,000",Zach Zuercher (minors),LHP,,,,,,,,,,,,,4Yr,"University of Rhode Island (Kingston, RI)",9
+2004,9,,270,19.0,Y,"$60,000",Mike Parisi (minors),RHP,-1.0,10.0,4.0,0.0,0.25,0.75,12.0,0.0,4.0,8.22,2.26,0.0,4Yr,"Manhattan College (New York, NY)",9
+2003,9,,275,28.0,Y,"$80,000",Justin Garza (minors),RHP,,,,,,,,,,,,,JC,"Seminole State College (Seminole, OK)",9
+2002,9,,282,30.0,Y,,Travis Hanson (minors),SS,,,,,,,,,,,,,4Yr,"University of Portland (Portland, OR)",9
+2001,9,,284,28.0,Y,,Rhett Parrott (minors),RHP,,,,,,,,,,,,,4Yr,"Georgia Institute of Technology (Atlanta, GA)",9
+2000,9,,263,13.0,Y,,John Novinsky (minors),RHP,,,,,,,,,,,,,4Yr,"Iona College (New Rochelle, NY)",9
+1999,9,,282,18.0,Y,,Damon Thames (minors),SS,,,,,,,,,,,,,4Yr,"Rice University (Houston, TX)",9
+1998,9,,258,5.0,Y,,Jack Wilson (minors),SS,23.5,1370.0,4890.0,61.0,0.265,0.671,,,,,,,JC,"Oxnard College (Oxnard, CA)",9
+1997,9,,284,20.0,N,,Seth Etherton (minors),RHP,-0.7,8.0,9.0,0.0,0.111,0.311,23.0,9.0,7.0,6.3,1.56,0.0,4Yr,"University of Southern California (Los Angeles, CA)",9
+1996,9,,248,3.0,Y,,Shawn Hogge (minors),RHP,,,,,,,,,,,,,HS,"Western HS (Las Vegas, NV)",9
+1995,9,,239,12.0,Y,,Ryan McHugh (minors),OF,,,,,,,,,,,,,4Yr,"Florida Southern College (Lakeland, FL)",9
+1994,9,,250,19.0,Y,,Tony Abell (minors),OF,,,,,,,,,,,,,HS,"Meade County HS (Brandenburg, KY)",9
+1993,9,,256,16.0,Y,,Mike Windham (minors),RHP,,,,,,,,,,,,,4Yr,"University of North Florida (Jacksonville, FL)",9
+1992,9,,251,15.0,Y,,Donnie Bellum (minors),OF,,,,,,,,,,,,,4Yr,"Albertson College (Caldwell, ID)",9
+1991,9,,233,4.0,Y,,Dennis Slininger (minors),RHP,,,,,,,,,,,,,HS,"Largo HS (Largo, FL)",9
+1990,9,,249,14.0,Y,,Terry Bradshaw (minors),OF,0.1,34.0,65.0,0.0,0.262,0.637,,,,,,,4Yr,"Norfolk State University (Norfolk, VA)",9
+1989,9,,224,6.0,Y,,Jeff Fayne (minors),OF,,,,,,,,,,,,,HS,"Munford HS (Munford, TN)",9
+1988,9,,236,23.0,Y,,Mark Clark (minors),RHP,5.9,123.0,242.0,1.0,0.058,0.17,219.0,74.0,71.0,4.61,1.39,0.0,JC,"Lincoln Land Community College (Springfield, IL)",9
+1987,9,,228,14.0,N,,Dave Tripp (minors),RHP,,,,,,,,,,,,,HS,"Mount St. Joseph HS (Baltimore, MD)",9
+1986,9,,234,23.0,Y,,Greg Smith (minors),SS,,,,,,,,,,,,,4Yr,"Central State University (Wilberforce, OH)",9
+1985,9,,228,18.0,N,,Bryan Hickerson (minors),LHP,-1.0,209.0,74.0,0.0,0.149,0.382,209.0,21.0,21.0,4.72,1.47,2.0,4Yr,"University of Minnesota (Minneapolis, MN)",9
+1984,9,,217,7.0,Y,,Jon Billinger (minors),C,,,,,,,,,,,,,4Yr,"California State University, Long Beach (Long Beach, CA)",9
+1983,9,,234,24.0,Y,,Kurt Kaull (minors),3B,,,,,,,,,,,,,4Yr,"George Washington University (Washington, DC)",9
+1982,9,,231,21.0,Y,,Dave Clements (minors),SS,,,,,,,,,,,,,4Yr,"University of Mississippi (Oxford, MS)",9
+1981,9,,215,8.0,Y,,Scott Young (minors),RHP,,,,,,,,,,,,,4Yr,"University of Delaware (Newark, DE)",9
+1980,9,,222,15.0,N,,Joe Wood (minors),2B,,,,,,,,,,,,,HS,"Herkimer HS (Herkimer, NY)",9
+1979,9,,214,6.0,Y,,Michael Kopala (minors),C,,,,,,,,,,,,,HS,"Hackensack HS (Hackensack, NJ)",9
+1978,9,,223,15.0,N,,Marty Wilkerson (minors),SS,,,,,,,,,,,,,HS,"Corona HS (Corona, CA)",9
+1977,9,,214,6.0,Y,,Randy Howell (minors),OF,,,,,,,,,,,,,4Yr,"Furman University (Greenville, SC)",9
+1976,9,,207,15.0,Y,,Daniel Winslow (minors),C,,,,,,,,,,,,,HS,"Buena HS (Sierra Vista, AZ)",9
+1975,9,,208,16.0,Y,,Andy Replogle (minors),RHP,0.7,0.0,0.0,0.0,,,35.0,9.0,5.0,4.0,1.52,0.0,4Yr,"Kansas State University (Manhattan, KS)",9
+1974,9,,205,13.0,N,,Michael Cameron (minors),RHP,,,,,,,,,,,,,HS,"Council Rock HS (Newtown, PA)",9
+1973,9,,204,12.0,N,,Steve Whitehead (minors),SS,,,,,,,,,,,,,HS,"Ramona HS (Riverside, CA)",9
+1972,9,,213,21.0,Y,,Mike Proly (minors),RHP,8.6,153.0,32.0,0.0,0.156,0.369,267.0,22.0,29.0,3.23,1.33,22.0,4Yr,"St. John's University (Queens, NY)",9
+1971,9,,206,9.0,Y,,Leon Lee (minors),3B,,,,,,,,,,,,,HS,"Grant Union HS (Sacramento, CA)",9
+1970,9,,209,12.0,Y,,Frederick Warner (minors),RHP,,,,,,,,,,,,,4Yr,"Lake Forest College (Lake Forest, IL)",9
+1969,9,,212,20.0,N,,Bucky Dent (minors),3B,17.5,1392.0,4512.0,40.0,0.247,0.618,,,,,,,HS,"Hialeah HS (Hialeah, FL)",9
+1968,9,,199,19.0,Y,,Lawrence Hebert (minors),3B,,,,,,,,,,,,,JC,"Sacramento City College (Sacramento, CA)",9
+1967,9,,170,10.0,N,,James Braxton (minors),1B,,,,,,,,,,,,,HS,"Connellsville Area HS (Connellsville, PA)",9
+1966,9,,167,7.0,Y,,Gary Ford (minors),3B,,,,,,,,,,,,,HS,"Ventura HS (Ventura, CA)",9
+1965,9,,187,,Y,,Theodore Friel (minors),RHP,,,,,,,,,,,,,4Yr,"Dartmouth College (Hanover, NH)",9
+2023,10,,305,21.0,,,Caden Kendle (minors),OF,,,,,,,,,,,,,4Yr,"University of California, Irvine (Irvine, CA)",10
+2022,10,,307,21.0,Y,"$25,000",Tanner Jacobson (minors),P,,,,,,,,,,,,,4Yr,"Queens University of Charlotte (Charlotte, NC)",10
+2021,10,,301,19.0,Y,"$50,000",Osvaldo Tovalin (minors),3B,,,,,,,,,,,,,4Yr,"Azusa Pacific University (Azusa, CA)",10
+2019,10,,305,18.0,Y,"$10,000",Jake Sommers (minors),P,,,,,,,,,,,,,4Yr,"University of Wisconsin-Milwaukee (Milwaukee, WI)",10
+2018,10,,303,19.0,Y,"$5,000",Kevin Woodall (minors),1B,,,,,,,,,,,,,4Yr,"Coastal Carolina University (Conway, SC)",10
+2017,10,,304,19.0,Y,"$3,000",Brett Seeburger (minors),LHP,,,,,,,,,,,,,4Yr,"San Diego State University (San Diego, CA)",10
+2016,10,,316,30.0,Y,"$3,000",Danny Hudzina (minors),3B,,,,,,,,,,,,,4Yr,"Western Kentucky University (Bowling Green, KY)",10
+2015,10,,311,26.0,N,,Kep Brown (minors),RF,,,,,,,,,,,,,HS,"Wando HS (Mount Pleasant, SC)",10
+2014,10,,315,30.0,Y,"$5,000",Danny Diekroeger (minors),3B,,,,,,,,,,,,,4Yr,"Stanford University (Palo Alto, CA)",10
+2013,10,,305,19.0,Y,"$275,000",Malik Collymore (minors),SS,,,,,,,,,,,,,HS,"Port Credit SS (Mississauga, ON)",10
+2012,10,,330,22.0,Y,"$20,000",Jacob Wilson (minors),2B,-0.1,12.0,20.0,0.0,0.15,0.491,,,,,,,4Yr,"University of Memphis (Memphis, TN)",10
+2011,10,,320,19.0,Y,"$95,000",Lance Jeffries (minors),CF,,,,,,,,,,,,,HS,"McCluer HS (Florissant, MO)",10
+2010,10,,319,23.0,Y,"$125,000",Reggie Williams (minors),CF,,,,,,,,,,,,,JC,"Middle Georgia State University (Macon, GA)",10
+2009,10,,309,18.0,Y,"$85,000",Hector Hernandez (minors),LHP,,,,,,,,,,,,,HS,"Puerto Rico Baseball Academy (Gurabo, Puerto Rico)",10
+2008,10,,305,13.0,Y,"$70,000",Alex Castellanos (minors),2B,-0.6,24.0,41.0,2.0,0.171,0.576,,,,,,,4Yr,"Belmont Abbey College (Belmont, NC)",10
+2007,10,,322,18.0,Y,"$123,000",Beau Riportella (minors),OF,,,,,,,,,,,,,JC,"College of the Sequoias (Visalia, CA)",10
+2006,10,,316,30.0,N,,Blair Erickson (minors),RHP,,,,,,,,,,,,,4Yr,"University of California, Irvine (Irvine, CA)",10
+2005,10,,320,30.0,Y,"$2,000",Randy Roth (minors),C,,,,,,,,,,,,,4Yr,"Southeastern Louisiana University (Hammond, LA)",10
+2004,10,,300,19.0,Y,"$50,000",Brady Toops (minors),C,,,,,,,,,,,,,4Yr,"University of Arkansas (Fayetteville, AR)",10
+2003,10,,305,28.0,Y,"$45,000",Buddy Blair (minors),LHP,,,,,,,,,,,,,4Yr,"University of Oklahoma (Norman, OK)",10
+2002,10,,312,30.0,Y,,Matt Lemanczyk (minors),OF,,,,,,,,,,,,,4Yr,"Sacred Heart University (Fairfield, CT)",10
+2001,10,,314,28.0,Y,,Seth Davidson (minors),SS,,,,,,,,,,,,,4Yr,"University of Southern California (Los Angeles, CA)",10
+2000,10,,293,13.0,Y,,Carmen Cali (minors),LHP,-0.4,16.0,0.0,0.0,,,40.0,0.0,1.0,6.55,2.13,0.0,4Yr,"Florida Atlantic University (Boca Raton, FL)",10
+1999,10,,312,18.0,Y,,Kevin Sprague (minors),LHP,,,,,,,,,,,,,4Yr,"McNeese State University (Lake Charles, LA)",10
+1998,10,,288,5.0,Y,,Peter Zazueta (minors),RHP,,,,,,,,,,,,,HS,"Amphitheater HS (Tucson, AZ)",10
+1997,10,,314,20.0,Y,,Finley Woodward (minors),RHP,,,,,,,,,,,,,4Yr,"Auburn University (Auburn, AL)",10
+1996,10,,278,3.0,Y,,Cordell Farley (minors),OF,,,,,,,,,,,,,4Yr,"Virginia Commonwealth University (Richmond, VA)",10
+1995,10,,267,12.0,Y,,Matt DeWitt (minors),RHP,0.2,6.0,0.0,0.0,,,29.0,1.0,3.0,4.95,1.75,0.0,HS,"Valley HS (Las Vegas, NV)",10
+1994,10,,278,19.0,N,,Bruce Thompson (minors),OF,,,,,,,,,,,,,4Yr,"University of Miami (Coral Gables, FL)",10
+1993,10,,284,16.0,Y,,Mike Martin (minors),RHP,,,,,,,,,,,,,JC,"Walters State Community College (Morristown, TN)",10
+1992,10,,279,15.0,N,,Scarborough Green (minors),SS,-1.1,117.0,168.0,0.0,0.214,0.503,,,,,,,HS,"Lafayette HS (Wildwood, MO)",10
+1991,10,,259,4.0,Y,,Allen Battle (minors),OF,-0.6,108.0,248.0,1.0,0.23,0.598,,,,,,,4Yr,"University of South Alabama (Mobile, AL)",10
+1990,10,,276,14.0,Y,,Mark Smith (minors),OF,,,,,,,,,,,,,4Yr,"University of Texas at Austin (Austin, TX)",10
+1989,10,,250,6.0,Y,,John Dempsey (minors),C,,,,,,,,,,,,,HS,"Crespi Carmelite HS (Encino, CA)",10
+1988,10,,262,23.0,Y,,Joe Hall (minors),3B,0.2,26.0,47.0,1.0,0.319,0.853,,,,,,,4Yr,"Southern Illinois University Carbondale (Carbondale, IL)",10
+1987,10,,254,14.0,N,,Paul Splatt (minors),SS,,,,,,,,,,,,,JC,"Community College of Baltimore County, Catonsville Campus (Catonsville, MD)",10
+1986,10,,260,23.0,Y,,Larry Carter (minors),RHP,0.1,6.0,10.0,0.0,0.2,0.473,6.0,1.0,5.0,4.64,1.58,0.0,4Yr,"West Virginia State University (Institute, WV)",10
+1985,10,,254,18.0,Y,,Gator Thiesen (minors),2B,,,,,,,,,,,,,4Yr,"Mississippi State University (Mississippi State, MS)",10
+1984,10,,243,7.0,Y,,Greg Mathews (minors),LHP,3.4,94.0,162.0,0.0,0.136,0.329,93.0,28.0,33.0,4.08,1.35,0.0,4Yr,"California State University, Fullerton (Fullerton, CA)",10
+1983,10,,260,24.0,N,,Scott Madden (minors),LHP,,,,,,,,,,,,,4Yr,"University of Arkansas at Little Rock (Little Rock, AR)",10
+1982,10,,257,21.0,Y,,Vince Coleman (minors),OF,12.5,1371.0,5406.0,28.0,0.264,0.668,,,,,,,4Yr,"Florida Agricultural and Mechanical University (Tallahassee, FL)",10
+1981,10,,241,8.0,N,,Bruce Walton (minors),RHP,-1.0,8.0,1.0,0.0,0.0,0.0,27.0,2.0,0.0,8.21,1.76,0.0,HS,"North Bakersfield HS (Bakersfield, CA)",10
+1980,10,,248,15.0,N,,David Page (minors),3B,,,,,,,,,,,,,HS,"Sunnyside HS (Tucson, AZ)",10
+1979,10,,240,6.0,Y,,Jon Ayers (minors),SS,,,,,,,,,,,,,4Yr,"California Polytechnic State University, San Luis Obispo (San Luis Obispo, CA)",10
+1978,10,,249,15.0,N,,Marshall Cook (minors),LHP,,,,,,,,,,,,,4Yr,"Dallas Baptist University (Dallas, TX)",10
+1977,10,,240,6.0,N,,Tom Heckman (minors),RHP,,,,,,,,,,,,,HS,"Helias HS (Jefferson City, MO)",10
+1976,10,,231,15.0,Y,,Billy Meza (minors),RHP,,,,,,,,,,,,,HS,"San Gabriel HS (San Gabriel, CA)",10
+1975,10,,232,16.0,N,,Mark Nipp (minors),RHP,,,,,,,,,,,,,HS,"Aptos HS (Aptos, CA)",10
+1974,10,,229,13.0,N,,Stephen Makwinski (minors),RHP,,,,,,,,,,,,,HS,"Sayreville War Memorial HS (Parlin, NJ)",10
+1973,10,,228,12.0,Y,,Stephen Pasternak (minors),RHP,,,,,,,,,,,,,4Yr,"University of Missouri (Columbia, MO)",10
+1972,10,,237,21.0,Y,,Dan Radison (minors),INF,,,,,,,,,,,,,4Yr,"Southern Illinois University Carbondale (Carbondale, IL)",10
+1971,10,,231,9.0,Y,,Gregory LaMendola (minors),RHP,,,,,,,,,,,,,HS,"Western HS (Buena Park, CA)",10
+1970,10,,234,12.0,Y,,Marc Hill (minors),C,2.3,737.0,1809.0,34.0,0.223,0.612,,,,,,,HS,"Elsberry HS (Elsberry, MO)",10
+1969,10,,236,20.0,Y,,Barry Poris (minors),1B,,,,,,,,,,,,,4Yr,"City College of New York (New York, NY)",10
+1968,10,,223,19.0,Y,,Donald Picard (minors),LHP,,,,,,,,,,,,,4Yr,"Lyndon State College (Lyndonville, VT)",10
+1967,10,,190,10.0,N,,Lenny Randle (minors),SS,11.6,1138.0,3950.0,27.0,0.257,0.656,,,,,,,HS,"Centennial HS (Compton, CA)",10
+1966,10,,187,7.0,N,,Coie Shumaker (minors),LHP,,,,,,,,,,,,,HS,"Maben HS (Maben, MS)",10
+1965,10,,188,,Y,,Fred Brigham (minors),SS,,,,,,,,,,,,,4Yr,"University of Wyoming (Laramie, WY)",10
