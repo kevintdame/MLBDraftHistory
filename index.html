@@ -48,7 +48,7 @@
 
         body {
         background-color: black;
-        color: white;
+        color: ;
         margin: 0;
         padding: 0;
     }
@@ -56,7 +56,7 @@
     .season-label {
         text-align: center;
         margin-top: 5px;
-        color: white;
+        color: ;
         font-family: Helvetica, Arial, sans-serif;
         font-size: 16px;
     }
@@ -100,7 +100,7 @@
         }
 
         .x-axis-line {
-            border-top: 3px solid white; /* This creates the horizontal line */
+            border-top: 3px solid ; /* This creates the horizontal line */
             width: 100%; /* Match the width of the chart */
             position: absolute; /* Position it absolutely within the chartWrapper */
             bottom: 18px; /* Start at the bottom of the chartWrapper */
@@ -158,7 +158,7 @@
         /* Style for the subtitle text */
         .subtitle {
             background-color: black; /* Make sure this color stands out */
-            color: white;
+            color: ;
             font-size: 12px;
             font-family: Helvetica;
             text-align: right;
@@ -265,7 +265,7 @@
             <option value="csvFiles/OriolesDraft.csv">Baltimore Orioles</option>
             <option value="csvFiles/RedsoxDraft.csv"> Boston Red Sox</option>
             <option value="csvFiles/CubsDraft.csv">Chicago Cubs</option>
-            <option value="csvFiles/WhitesoxDraft.csv">Chicago White Sox</option>
+            <option value="csvFiles/soxDraft.csv">Chicago  Sox</option>
             <option value="csvFiles/RedsDraft.csv"> Cincinnati Reds</option>
             <option value="csvFiles/GuardiansDraft.csv">Cleveland Guardians</option>
             <option value="csvFiles/RockiesDraft.csv">Colorado Rockies</option>
@@ -320,7 +320,7 @@
                 <span class="label">Player value off the charts </span>
             </div>
             <div class="legend-item">
-                <span class="color-box" style="background-color: transparent; border: 2px solid white;"></span>
+                <span class="color-box" style="background-color: transparent; border: 2px solid ;"></span>
                 <span class="label">Zero or negative player value</span>
             </div>
             <div class="legend-item">
@@ -405,7 +405,7 @@
             "Baltimore Orioles": "logos/OriolesLogo.png",
             "Boston Red Sox": "logos/RedsoxLogo.png",
             "Chicago Cubs": "logos/CubsLogo.png",
-            "Chicago White Sox": "logos/WhitesoxLogo.png",
+            "Chicago  Sox": "logos/soxLogo.png",
             "Cincinnati Reds": "logos/RedsLogo.png",
             "Cleveland Guardians": "logos/GuardiansLogo.png",
             "Colorado Rockies": "logos/RockiesLogo.png",
@@ -573,7 +573,7 @@
                 labels: [season], // Label for the x-axis
                 datasets: datasets.map((dataset, index) => ({
                     ...dataset,
-                    borderColor: dataset.originalWav >= 0.5 ? 'black' : 'white', // Conditional border color
+                    borderColor: dataset.originalWav >= 0.5 ? 'white' : 'white', // Conditional border color
                     borderWidth: 1,
                 })),
 
